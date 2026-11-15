@@ -41,3 +41,23 @@ form{display:grid;gap:1em}label{display:grid;gap:.35em}input,textarea{font:inher
  .service-3 .item-24{order:0}.service-3 .project-inquiry{order:1}.service-3 .item-25{order:2}
  .service-4 .duo-copy{order:0;width:100%}
 }
+
+/* 2026-11-15 수정: 모바일 사진 잘림, 양쪽 맞춤 글 벌어짐, 회색 구역 마감 */
+.service-1:after{background-image:url("wave-to-mist.svg")}
+.service-2,.service-4{padding-bottom:calc(3.5vw + clamp(14px,4vw,58px))}
+.service-2:after,.service-4:after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:clamp(14px,4vw,58px);background:url("wave-to-white.svg") center/100% 100% no-repeat;pointer-events:none}
+@media(max-width:1000px){[style*="text-align:justify"]{text-align:left!important}}
+@media(max-width:767px){
+.photo{height:auto}
+.photo img{position:static;display:block;width:100%;height:auto;object-fit:contain}
+.photo a{height:auto}
+.service-1 .item-4{height:auto}
+.service-2,.service-4{padding-bottom:calc(2em + clamp(14px,4vw,58px))}
+}
+/* 모바일: 사례별로 설명 → 해당 사진 순서 */
+@media(max-width:767px){
+.service-2 .item-18{order:100}.service-2 .item-14{order:110}.service-2 .item-15{order:120}
+.service-2 .item-16{order:200}.service-2 .item-19{order:210}.service-2 .item-21{order:220}
+.service-2 .item-22{order:300}.service-2 .item-17{order:310}.service-2 .item-20{order:320}
+.service-2 .item-23{order:900}
+}
