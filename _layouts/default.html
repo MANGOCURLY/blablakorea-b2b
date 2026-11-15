@@ -1,7 +1,7 @@
 {% assign ko_title = site.data.ko.home.title | default: "" | strip %}{% assign t = site.data[page.lang] %}{% assign base = "/" %}{% unless page.lang == "fr" %}{% assign base = base | append: page.lang | append: "/" %}{% endunless %}{% assign base = base | relative_url %}{% capture slug %}{% case page.key %}{% when "home" %}{% when "service" %}accompagnement-b2b/{% when "about" %}about/{% when "contact" %}contact/{% when "legal" %}mentions-lgales/{% when "privacy" %}politique-de-confidentialite/{% when "blog" %}notre-blog/{% endcase %}{% endcapture %}<!DOCTYPE html>
 <html lang="{{ page.lang }}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 {% if page.lang == "ko" and ko_title == empty %}<meta name="robots" content="noindex, nofollow">{% endif %}
-<title>{% if page.collection %}{{ page.title | escape }}{% elsif page.key == "blog" %}{{ t.common.blog | escape }}{% else %}{{ t[page.key].title | escape }}{% endif %}</title><link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}"></head><body>
+{% include seo.html %}<link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}"></head><body>
 {% if page.lang != "ko" or ko_title != empty %}{% include nav.html %}<main>{% if page.collection %}{{ content }}{% else %}{% case page.key %}
 {% when "home" %}{% if page.lang == "en" %}{% include en-home.html %}{% else %}{% include fr-home.html %}{% endif %}
 {% when "service" %}{% if page.lang == "en" %}{% include en-service.html %}{% else %}{% include fr-service.html %}{% endif %}

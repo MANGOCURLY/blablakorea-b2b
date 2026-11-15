@@ -1,0 +1,42 @@
+{% if page.collection %}
+  {% assign seo_key = page.url | split: '/' | last | replace: '-', '_' %}
+{% else %}
+  {% assign seo_key = page.key %}
+{% endif %}
+{% assign metadata = t.seo[seo_key] %}
+{% assign heading = metadata.title | default: page.title %}
+{% if heading == nil or heading == empty %}
+  {% if page.key == 'blog' %}{% assign heading = t.common.blog %}{% else %}{% assign heading = t[page.key].title %}{% endif %}
+{% endif %}
+<title>{{ heading | escape }}</title>
+{% unless page.lang == 'ko' and ko_title == empty %}
+<link rel="canonical" href="{{ page.url | absolute_url | escape }}">
+{% unless page.collection %}
+  {% for alternate_page in site.pages %}
+    {% if alternate_page.key == page.key and alternate_page.lang %}
+      {% unless alternate_page.lang == 'ko' and ko_title == empty %}
+<link rel="alternate" hreflang="{{ alternate_page.lang }}" href="{{ alternate_page.url | absolute_url | escape }}">
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+{% endunless %}
+<meta property="og:type" content="{% if page.collection %}article{% else %}website{% endif %}">
+<meta property="og:url" content="{{ page.url | absolute_url | escape }}">
+<meta property="og:title" content="{{ heading | escape }}">
+<meta property="og:site_name" content="{{ t.common.brand | escape }}">
+<meta name="twitter:title" content="{{ heading | escape }}">
+{% assign description = metadata.description | default: '' | strip %}
+{% if description != empty %}
+<meta name="description" content="{{ description | escape }}">
+<meta property="og:description" content="{{ description | escape }}">
+<meta name="twitter:description" content="{{ description | escape }}">
+{% endif %}
+{% assign share_image = metadata.image | default: '' | strip %}
+{% if share_image != empty %}
+<meta property="og:image" content="{{ share_image | absolute_url | escape }}">
+<meta name="twitter:image" content="{{ share_image | absolute_url | escape }}">
+<meta name="twitter:card" content="summary_large_image">
+{% else %}
+<meta name="twitter:card" content="summary">
+{% endif %}
+{% endunless %}
