@@ -1,0 +1,24 @@
+---
+layout: null
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- assign korean_title = site.data.ko.home.title | default: '' | strip -%}
+{%- for entry in site.pages -%}
+  {%- if entry.lang and entry.key -%}
+    {%- unless entry.lang == 'ko' and korean_title == empty %}
+  <url><loc>{{ entry.url | absolute_url | xml_escape }}</loc></url>
+    {%- endunless -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- for collection in site.collections -%}
+  {%- if collection.output and collection.label contains 'articles_' -%}
+    {%- unless collection.label == 'articles_ko' and korean_title == empty -%}
+      {%- for article in collection.docs %}
+  <url><loc>{{ article.url | absolute_url | xml_escape }}</loc></url>
+      {%- endfor -%}
+    {%- endunless -%}
+  {%- endif -%}
+{%- endfor %}
+</urlset>
