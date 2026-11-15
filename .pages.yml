@@ -1638,6 +1638,33 @@
               ]
             }
           ]
+        },
+        {
+          "name": "profile_maps",
+          "label": "소개 > 인물 지도 그림",
+          "type": "object",
+          "fields": [
+            {
+              "name": "jeanne",
+              "label": "Jeanne 지도 그림",
+              "type": "image"
+            },
+            {
+              "name": "jeanne_alt",
+              "label": "지도 그림 설명 · jeanne",
+              "type": "string"
+            },
+            {
+              "name": "jonghyuk",
+              "label": "Jonghyuk 지도 그림",
+              "type": "image"
+            },
+            {
+              "name": "jonghyuk_alt",
+              "label": "지도 그림 설명 · jonghyuk",
+              "type": "string"
+            }
+          ]
         }
       ]
     },
@@ -3150,6 +3177,33 @@
                   "type": "image"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "profile_maps",
+          "label": "소개 > 인물 지도 그림",
+          "type": "object",
+          "fields": [
+            {
+              "name": "jeanne",
+              "label": "Jeanne 지도 그림",
+              "type": "image"
+            },
+            {
+              "name": "jeanne_alt",
+              "label": "지도 그림 설명 · jeanne",
+              "type": "string"
+            },
+            {
+              "name": "jonghyuk",
+              "label": "Jonghyuk 지도 그림",
+              "type": "image"
+            },
+            {
+              "name": "jonghyuk_alt",
+              "label": "지도 그림 설명 · jonghyuk",
+              "type": "string"
             }
           ]
         }
@@ -4813,6 +4867,33 @@
                   "type": "image"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "profile_maps",
+          "label": "소개 > 인물 지도 그림",
+          "type": "object",
+          "fields": [
+            {
+              "name": "jeanne",
+              "label": "Jeanne 지도 그림",
+              "type": "image"
+            },
+            {
+              "name": "jeanne_alt",
+              "label": "지도 그림 설명 · jeanne",
+              "type": "string"
+            },
+            {
+              "name": "jonghyuk",
+              "label": "Jonghyuk 지도 그림",
+              "type": "image"
+            },
+            {
+              "name": "jonghyuk_alt",
+              "label": "지도 그림 설명 · jonghyuk",
+              "type": "string"
             }
           ]
         }

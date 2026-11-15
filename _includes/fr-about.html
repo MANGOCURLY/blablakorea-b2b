@@ -7,8 +7,14 @@
 <section class="panel about-1"><div class="grid">
 <div class="cell text item-4" style="--area:1/1/3/9"><h3>{{ t.about.b04_1 | escape }}</h3></div>
 <div class="cell photo item-5" style="--area:3/1/14/6"><img src="{{ t.about.b05_photo | relative_url | escape }}" alt="{{ t.about.b05_alt | escape }}"></div>
+{% assign profile_map = t.profile_maps.jeanne | default: '' %}{% if profile_map != empty %}
+<div class="cell photo item-6" style="--area:3/6/13/12"><img src="{{ profile_map | relative_url | escape }}" alt="{{ t.profile_maps.jeanne_alt | escape }}"></div>
+{% endif %}
 <div class="cell text item-7" style="--area:14/1/15/9"><h4>{{ t.about.b07_1 | escape }}</h4></div>
 <div class="cell text item-8" style="--area:15/1/22/12">{{ t.about.b08_1 | escape }}<p>{{ t.about.b08_2 | escape }}</p><p style="text-align:justify">{{ t.about.b08_3 | escape }}</p></div>
+{% assign profile_map = t.profile_maps.jonghyuk | default: '' %}{% if profile_map != empty %}
+<div class="cell photo item-9" style="--area:3/18/13/24"><img src="{{ profile_map | relative_url | escape }}" alt="{{ t.profile_maps.jonghyuk_alt | escape }}"></div>
+{% endif %}
 <div class="cell photo item-10" style="--area:3/13/14/18"><img src="{{ t.about.b10_photo | relative_url | escape }}" alt="{{ t.about.b10_alt | escape }}"></div>
 <div class="cell text item-11" style="--area:15/13/24/24">{{ t.about.b11_1 | escape }}<p style="text-align:justify">{{ t.about.b11_2 | escape }}</p><p style="text-align:justify">{{ t.about.b11_3 | escape }}</p></div>
 <div class="cell text item-12" style="--area:14/13/20/21"><h4>{{ t.about.b12_1 | escape }}</h4></div>
