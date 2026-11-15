@@ -112,3 +112,26 @@ article.story h4{font-size:calc(18px + min(.48vw,9.6px))}
 @font-face{font-family:Almarai;font-style:normal;font-weight:800;font-display:swap;src:url(fonts/almarai-latin-800-normal.woff2) format('woff2')}
 body,button,input,textarea,.button a,.cta{font-family:Almarai,"Segoe UI",system-ui,sans-serif}
 header .brand{color:var(--wine)}
+
+/* 2026-11-15 Jeanne 피드백: 홈 사진 모서리·버튼과 물결선 간격·사진 정렬, 소개 지도·제목 한 줄·원형 사진·포트폴리오 버튼·배너 전체 폭 */
+.home-0 .item-3 img{border-radius:12px}
+.home-0,.home-1{padding-bottom:calc(3.5vw + clamp(14px,4vw,58px))}
+.about-1 .map img{border-radius:12px}
+.about-1 .item-13 img,.about-1 .item-20 img{border-radius:12px}
+.about-1 .item-18 a{white-space:nowrap}
+@media(min-width:768px){
+.about-1 .item-4 h3{white-space:nowrap}
+.about-1 .item-18{grid-column:2/8}
+.about-1 .item-14,.about-1 .item-19{container-type:size}
+.about-1 .item-14 img,.about-1 .item-19 img{width:min(100cqw,100cqh);height:min(100cqw,100cqh);border-radius:50%}
+.about-3{overflow-x:clip}
+.about-3 .item-25{margin-left:calc((100% - 100vw)/2);margin-right:calc((100% - 100vw)/2)}
+}
+@media(max-width:767px){
+.home-0,.home-1{padding-bottom:calc(2em + clamp(14px,4vw,58px))}
+.about-1 .item-14 img,.about-1 .item-19 img{width:min(70vw,300px);aspect-ratio:1;object-fit:cover;border-radius:50%;margin:0 auto}
+}
+@media(min-width:768px){
+.home-1 .item-12{grid-row:8/20}.home-1 .item-8{grid-row:8/14}.home-1 .item-9{grid-row:14/20}
+.home-1 .item-8,.home-1 .item-9,.home-1 .item-12{top:min(1.6vw,23px)}
+}
