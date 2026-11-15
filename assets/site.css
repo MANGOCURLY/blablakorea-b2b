@@ -104,3 +104,11 @@ article.story h4{font-size:calc(18px + min(.48vw,9.6px))}
   article.story h4{font-size:calc(16px + min(.48vh,4.32px))}
   .journal-card h2{font-size:calc(16px + min(.96vh,8.64px))}
 }
+
+/* 2026-11-15 원본 본문 글꼴 복원: 원본 Squarespace 사이트 본문은 Almarai (Poppins는 잘못된 지정이었음) */
+@font-face{font-family:Almarai;font-style:normal;font-weight:300;font-display:swap;src:url(fonts/almarai-latin-300-normal.woff2) format('woff2')}
+@font-face{font-family:Almarai;font-style:normal;font-weight:400;font-display:swap;src:url(fonts/almarai-latin-400-normal.woff2) format('woff2')}
+@font-face{font-family:Almarai;font-style:normal;font-weight:700;font-display:swap;src:url(fonts/almarai-latin-700-normal.woff2) format('woff2')}
+@font-face{font-family:Almarai;font-style:normal;font-weight:800;font-display:swap;src:url(fonts/almarai-latin-800-normal.woff2) format('woff2')}
+body,button,input,textarea,.button a,.cta{font-family:Almarai,"Segoe UI",system-ui,sans-serif}
+header .brand{color:var(--wine)}
