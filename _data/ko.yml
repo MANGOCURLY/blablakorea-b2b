@@ -264,3 +264,54 @@ common:
   email_label: ""
   message: ""
   send: ""
+seo:
+  home:
+    description: ""
+    image: ""
+  service:
+    description: ""
+    image: ""
+  about:
+    description: ""
+    image: ""
+  contact:
+    description: ""
+    image: ""
+  legal:
+    description: ""
+    image: ""
+  privacy:
+    description: ""
+    image: ""
+  blog:
+    title: ""
+    description: ""
+    image: ""
+  blabla_korea_k_founders_connect_paris:
+    title: ""
+    description: ""
+    image: ""
+  colloque_140_ans_relations_france_coree:
+    title: ""
+    description: ""
+    image: ""
+  prendre_contact_partenaire_commercial_coreen:
+    title: ""
+    description: ""
+    image: ""
+  jumelages_france_coree:
+    title: ""
+    description: ""
+    image: ""
+  naver_cafe_marketing_coree:
+    title: ""
+    description: ""
+    image: ""
+  naver_google_etude_marche_coree:
+    title: ""
+    description: ""
+    image: ""
+  exporter_vin_coree_du_sud:
+    title: ""
+    description: ""
+    image: ""

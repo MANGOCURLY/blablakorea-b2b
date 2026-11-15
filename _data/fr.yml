@@ -264,3 +264,54 @@ common:
   email_label: "E-mail"
   message: "Message"
   send: "Envoyer"
+seo:
+  home:
+    description: "Votre partenaire franco-coréen pour vos projets entre la France et la Corée du Sud"
+    image: ""
+  service:
+    description: "Formation aux codes des affaires coréens et accompagnement de vos visites B2B en Corée du Sud, au-delà de Séoul. Un binôme franco-coréen, à taille humaine."
+    image: ""
+  about:
+    description: "Jonghyuk, natif de Daegu, et Jeanne, experte en gestion de projet avec 2 ans vécus en Corée. Découvrez notre histoire et notre vision de l'accompagnement franco-coréen."
+    image: ""
+  contact:
+    description: ""
+    image: ""
+  legal:
+    description: "Consultez les mentions légales de Blabla Korea pour connaître nos coordonnées, identité légale et politique de confidentialité, garantissant transparence et confiance."
+    image: ""
+  privacy:
+    description: "Découvrez notre politique de confidentialité de Blabla Korea, garantissant la sécurité de vos données personnelles. Contactez-nous pour toute question relative à vos droits."
+    image: ""
+  blog:
+    title: "Notre blog | Voyage, culture et affaires en Corée — Blabla Korea"
+    description: "Conseils pratiques, étiquette coréenne, guides de voyage et clés pour réussir un partenariat avec la Corée. Le blog de Blabla Korea, écrit par Jeanne et Jonghyuk."
+    image: ""
+  blabla_korea_k_founders_connect_paris:
+    title: "Blabla Korea au K-Founders Connect in Paris 2026 — Blabla Korea"
+    description: "Le 8 septembre, Blabla Korea participait au K-Founders Connect in Paris. Retour sur l'événement et sur les liens économiques entre la France et la Corée."
+    image: "/assets/images/share-blabla-korea-k-founders-connect-paris.jpg"
+  colloque_140_ans_relations_france_coree:
+    title: "Colloque 140 ans des relations franco-coréennes : nos enseignements — Blabla Korea"
+    description: "Le 16 octobre 2026, Blabla Korea assistait au colloque des 140 ans des relations franco-coréennes à l’Assemblée nationale. Histoire, économie, coopération : ce que nous retenons."
+    image: "/assets/images/share-colloque-140-ans-relations-france-coree.jpg"
+  prendre_contact_partenaire_commercial_coreen:
+    title: "Contacter un partenaire coréen : les codes à connaître — Blabla Korea"
+    description: "Hiérarchie, email, carte de visite, KakaoTalk : les codes essentiels pour approcher un partenaire commercial coréen sans faux pas et bâtir la relation de confiance."
+    image: "/assets/images/share-prendre-contact-partenaire-commercial-coreen.jpg"
+  jumelages_france_coree:
+    title: "Jumelages France-Corée : coopérer avec une ville coréenne — Blabla Korea"
+    description: "Votre collectivité a un partenariat avec une ville coréenne ? Délégations, événements, codes culturels : comment tirer le meilleur parti d'un jumelage France-Corée."
+    image: "/assets/images/9279ebc6242864.jpg"
+  naver_cafe_marketing_coree:
+    title: "Naver Café : le canal marketing méconnu pour la Corée — Blabla Korea"
+    description: "Naver Café, l'équivalent coréen des groupes Facebook, réunit des communautés de niche déjà segmentées : un canal marketing puissant pour toucher les Coréens."
+    image: "/assets/images/share-naver-cafe-marketing-coree.jpg"
+  naver_google_etude_marche_coree:
+    title: "Naver ou Google en Corée ? Ce que vous devez savoir — Blabla Korea"
+    description: "Google progresse à Séoul, mais Naver reste incontournable ailleurs. Naver Blog, Café, KakaoTalk : les angles morts d'une étude de marché Corée faite via Google."
+    image: "/assets/images/share-naver-google-etude-marche-coree.jpg"
+  exporter_vin_coree_du_sud:
+    title: ""
+    description: ""
+    image: "/assets/images/share-exporter-vin-coree-du-sud.jpg"

@@ -373,3 +373,26 @@ common:
   email_label: Email
   message: Message
   send: Send
+seo:
+  home:
+    description: "Your Franco-Korean partner for your projects between France and South Korea"
+    image: ""
+  service:
+    description: "Training in Korean business etiquette and support for your B2B visits in South Korea, beyond Seoul. A French-Korean partnership on a human scale."
+    image: ""
+  about:
+    description: "Jonghyuk, a native of Daegu, and Jeanne, a project management expert with 2 years of experience living in Korea. Discover our story and our vision for French-Korean support."
+    image: ""
+  contact:
+    description: ""
+    image: ""
+  legal:
+    description: "View Blabla Korea's legal notice to find out our contact details, legal identity, and privacy policy, ensuring transparency and trust."
+    image: ""
+  privacy:
+    description: "Discover Blabla Korea's privacy policy, ensuring the security of your personal data. Contact us for any questions regarding your rights."
+    image: ""
+  blog:
+    title: ""
+    description: ""
+    image: ""

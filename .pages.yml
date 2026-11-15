@@ -1353,6 +1353,291 @@
               "type": "string"
             }
           ]
+        },
+        {
+          "name": "seo",
+          "label": "검색·공유 설정",
+          "type": "object",
+          "fields": [
+            {
+              "name": "home",
+              "label": "홈",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "service",
+              "label": "서비스",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "about",
+              "label": "소개",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "contact",
+              "label": "문의",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "legal",
+              "label": "법적 고지",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "privacy",
+              "label": "개인정보처리방침",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "blog",
+              "label": "글 목록",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "blabla_korea_k_founders_connect_paris",
+              "label": "Blabla Korea au K-Founders Connect in Paris 2026",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "colloque_140_ans_relations_france_coree",
+              "label": "Colloque 140 ans des relations franco-coréennes ",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "prendre_contact_partenaire_commercial_coreen",
+              "label": "Contacter un partenaire coréen : les codes à con",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "jumelages_france_coree",
+              "label": "Jumelages France-Corée : coopérer avec une ville",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "naver_cafe_marketing_coree",
+              "label": "Naver Café : le canal marketing méconnu pour la ",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "naver_google_etude_marche_coree",
+              "label": "Naver ou Google en Corée ? Ce que vous devez sav",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "exporter_vin_coree_du_sud",
+              "label": "exporter-vin-coree-du-sud",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -2736,6 +3021,137 @@
               "type": "string"
             }
           ]
+        },
+        {
+          "name": "seo",
+          "label": "검색·공유 설정",
+          "type": "object",
+          "fields": [
+            {
+              "name": "home",
+              "label": "홈",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "service",
+              "label": "서비스",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "about",
+              "label": "소개",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "contact",
+              "label": "문의",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "legal",
+              "label": "법적 고지",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "privacy",
+              "label": "개인정보처리방침",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "blog",
+              "label": "글 목록",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -4112,6 +4528,291 @@
               "name": "send",
               "label": "공통 > 양식 전송 버튼",
               "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "seo",
+          "label": "검색·공유 설정",
+          "type": "object",
+          "fields": [
+            {
+              "name": "home",
+              "label": "홈",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "service",
+              "label": "서비스",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "about",
+              "label": "소개",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "contact",
+              "label": "문의",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "legal",
+              "label": "법적 고지",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "privacy",
+              "label": "개인정보처리방침",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "blog",
+              "label": "글 목록",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "blabla_korea_k_founders_connect_paris",
+              "label": "Blabla Korea au K-Founders Connect in Paris 2026",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "colloque_140_ans_relations_france_coree",
+              "label": "Colloque 140 ans des relations franco-coréennes ",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "prendre_contact_partenaire_commercial_coreen",
+              "label": "Contacter un partenaire coréen : les codes à con",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "jumelages_france_coree",
+              "label": "Jumelages France-Corée : coopérer avec une ville",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "naver_cafe_marketing_coree",
+              "label": "Naver Café : le canal marketing méconnu pour la ",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "naver_google_etude_marche_coree",
+              "label": "Naver ou Google en Corée ? Ce que vous devez sav",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
+            },
+            {
+              "name": "exporter_vin_coree_du_sud",
+              "label": "exporter-vin-coree-du-sud",
+              "type": "object",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "검색 제목",
+                  "type": "string"
+                },
+                {
+                  "name": "description",
+                  "label": "검색·공유 설명",
+                  "type": "text"
+                },
+                {
+                  "name": "image",
+                  "label": "공유 이미지",
+                  "type": "image"
+                }
+              ]
             }
           ]
         }
