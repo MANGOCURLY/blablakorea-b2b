@@ -61,3 +61,17 @@ form{display:grid;gap:1em}label{display:grid;gap:.35em}input,textarea{font:inher
 .service-2 .item-22{order:300}.service-2 .item-17{order:310}.service-2 .item-20{order:320}
 .service-2 .item-23{order:900}
 }
+
+/* 2026-11-15 원본 대조 수정: 배너 전체 폭·흰 제목·글 겹침, 소개 이름 색 */
+@media(min-width:768px){
+.service-1{overflow-x:clip}
+.service-1 .item-4{margin-left:calc((100% - 100vw)/2);margin-right:calc((100% - 100vw)/2)}
+.service-1 .item-5 h1{color:#fff}
+.service-1 .item-6{grid-area:5/3/9/23}
+.service-1 .item-6 h4{font-size:clamp(17px,1.85vw,34px);margin:.35em 0}
+}
+.about-1 h4{color:var(--pink)}
+@media(min-width:768px){
+.service-1 .item-4{min-height:35vw}
+.service-1 .item-7,.service-1 .item-8,.service-1 .item-9,.service-1 .item-10{padding-top:3vw}
+}

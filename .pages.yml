@@ -1361,7 +1361,7 @@
       "label": "불어 · 글 모음",
       "type": "collection",
       "path": "_articles_fr",
-      "filename": "{year}-{month}-{day}-{primary}.md",
+      "filename": "{primary}.md",
       "fields": [
         {
           "name": "title",
@@ -2744,7 +2744,7 @@
       "label": "영어 · 글 모음",
       "type": "collection",
       "path": "_articles_en",
-      "filename": "{year}-{month}-{day}-{primary}.md",
+      "filename": "{primary}.md",
       "fields": [
         {
           "name": "title",
@@ -4122,7 +4122,7 @@
       "label": "한국어 · 글 모음",
       "type": "collection",
       "path": "_articles_ko",
-      "filename": "{year}-{month}-{day}-{primary}.md",
+      "filename": "{primary}.md",
       "fields": [
         {
           "name": "title",
