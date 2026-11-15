@@ -1,0 +1,11 @@
+<section class="story journal-list"><h1>{{ t.common.blog | escape }}</h1>
+{% assign cid = "articles_" | append: page.lang %}{% assign articles = site[cid] | sort: "date" | reverse %}
+<div class="journal-cards">{% for article in articles %}
+  {% assign card_key = article.url | split: '/' | last | replace: '-', '_' %}
+  {% assign card_image = t.seo[card_key].image | default: '' %}
+  <article class="journal-card">
+    {% if card_image != empty %}<a href="{{ article.url | relative_url }}" aria-label="{{ article.title | escape }}"><img src="{{ card_image | relative_url | escape }}" alt="" loading="lazy"></a>{% endif %}
+    <time datetime="{{ article.date | date_to_xmlschema }}">{{ article.date | date: "%d/%m/%Y" }}</time>
+    <h2><a href="{{ article.url | relative_url }}">{{ article.title | escape }}</a></h2>
+  </article>
+{% endfor %}</div></section>

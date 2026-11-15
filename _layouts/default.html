@@ -9,4 +9,4 @@
 {% when "contact" %}{% if page.lang == "en" %}{% include en-contact.html %}{% else %}{% include fr-contact.html %}{% endif %}
 {% when "legal" %}{% if page.lang == "en" %}{% include en-legal.html %}{% else %}{% include fr-legal.html %}{% endif %}
 {% when "privacy" %}{% if page.lang == "en" %}{% include en-privacy.html %}{% else %}{% include fr-privacy.html %}{% endif %}
-{% when "blog" %}<section class="story"><h1>{{ t.common.blog | escape }}</h1>{% assign cid = "articles_" | append: page.lang %}{% assign articles = site[cid] | sort: "date" | reverse %}{% for article in articles %}<p><a href="{{ article.url | relative_url }}">{{ article.title | escape }}</a></p>{% endfor %}</section>{% endcase %}{% endif %}</main>{% include footer.html %}{% endif %}</body></html>
+{% when "blog" %}{% include journal-list.html %}{% endcase %}{% endif %}</main>{% include footer.html %}{% endif %}</body></html>

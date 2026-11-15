@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-<article class="story"><h1>{{ page.title | escape }}</h1>{{ content }}</article>
+<article class="story"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y" }}</time><h1>{{ page.title | escape }}</h1>{{ content }}</article>
