@@ -1,0 +1,9 @@
+{% if site.form_endpoint and site.form_endpoint != empty %}
+<form action="{{ site.form_endpoint | escape }}" method="post" accept-charset="UTF-8">
+<label>{{ t.common.name | escape }}<input name="name" autocomplete="name" required maxlength="150"></label>
+<label>{{ t.common.company | escape }}<input name="company" autocomplete="organization" required maxlength="200"></label>
+<label>{{ t.common.email_label | escape }}<input name="email" type="email" autocomplete="email" required maxlength="254"></label>
+<label>{{ t.common.message | escape }}<textarea name="message" required maxlength="6000" rows="6"></textarea></label>
+<div class="trap" aria-hidden="true" inert><input name="website" tabindex="-1" autocomplete="off"></div>
+<button>{{ t.common.send | escape }}</button></form>
+{% else %}<a href="mailto:{{ t.common.email | escape }}">{{ t.common.email | escape }}</a>{% endif %}

@@ -1,0 +1,7 @@
+{% assign ko_title = site.data.ko.home.title | default: "" | strip %}<header><a class="brand" href="{{ base }}">{{ t.common.brand | escape }}</a>{% capture navitems %}<a href="{{ base }}about/">{{ t.common.about | escape }}</a>
+<a href="{{ base }}accompagnement-b2b/">{{ t.common.service | escape }}</a>
+{% assign collection_key = "articles_" | append: page.lang %}
+{% assign article_count = site[collection_key] | size %}
+{% if article_count > 0 %}<a href="{{ base }}notre-blog/">{{ t.common.blog | escape }}</a>{% endif %}
+<span class="languages">{% assign langs = "fr,en,ko" | split: "," %}{% for code in langs %}{% if code == "ko" and ko_title == empty %}{% continue %}{% endif %}{% assign alternate = "/" %}{% unless code == "fr" %}{% assign alternate = alternate | append: code | append: "/" %}{% endunless %}{% assign alternate = alternate | append: slug %}<a hreflang="{{ code }}" lang="{{ code }}" href="{{ alternate | relative_url }}"{% if page.lang == code %} aria-current="true"{% endif %}>{{ t.common[code] | escape }}</a>{% endfor %}</span>
+<a class="cta" href="{{ base }}contact/">{{ t.common.contact | escape }}</a>{% endcapture %}<nav class="wide-nav">{{ navitems }}</nav><details class="compact-nav"><summary aria-label="{{ t.common.brand | escape }}"><i></i></summary><nav>{{ navitems }}</nav></details></header>

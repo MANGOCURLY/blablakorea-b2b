@@ -1,0 +1,4147 @@
+{
+  "media": {
+    "input": "assets/images",
+    "output": "/assets/images"
+  },
+  "content": [
+    {
+      "name": "copy_fr",
+      "label": "불어 · 전체 문구와 사진",
+      "type": "file",
+      "path": "_data/fr.yml",
+      "fields": [
+        {
+          "name": "service",
+          "label": "서비스",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "서비스 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "서비스 > 본문 · Quand deux mondes professionnels",
+              "type": "string"
+            },
+            {
+              "name": "b01_1",
+              "label": "서비스 > 본문 · La France et la Corée du Sud ent",
+              "type": "text"
+            },
+            {
+              "name": "b02_photo",
+              "label": "서비스 > 사진 3",
+              "type": "image"
+            },
+            {
+              "name": "b02_alt",
+              "label": "서비스 > 사진 설명 3",
+              "type": "text"
+            },
+            {
+              "name": "b03_photo",
+              "label": "서비스 > 사진 4",
+              "type": "image"
+            },
+            {
+              "name": "b03_alt",
+              "label": "서비스 > 사진 설명 4",
+              "type": "text"
+            },
+            {
+              "name": "b04_photo",
+              "label": "서비스 > 사진 5",
+              "type": "image"
+            },
+            {
+              "name": "b04_alt",
+              "label": "서비스 > 사진 설명 5",
+              "type": "text"
+            },
+            {
+              "name": "b05_1",
+              "label": "서비스 > 본문 · Comment ça se passe ?",
+              "type": "string"
+            },
+            {
+              "name": "b06_1",
+              "label": "서비스 > 본문 · Un pont tient parce qu'il a deux",
+              "type": "string"
+            },
+            {
+              "name": "b06_2",
+              "label": "서비스 > 본문 · C'est la combinaison de",
+              "type": "string"
+            },
+            {
+              "name": "b06_3",
+              "label": "서비스 > 본문 · nos deux regards",
+              "type": "string"
+            },
+            {
+              "name": "b06_4",
+              "label": "서비스 > 본문 · qui nous permet de vous faire tr",
+              "type": "string"
+            },
+            {
+              "name": "b07_1",
+              "label": "서비스 > 본문 · 01",
+              "type": "string"
+            },
+            {
+              "name": "b07_2",
+              "label": "서비스 > 본문 · Échanger",
+              "type": "string"
+            },
+            {
+              "name": "b07_3",
+              "label": "서비스 > 본문 · Un appel de 30 minutes, offert.",
+              "type": "string"
+            },
+            {
+              "name": "b07_4",
+              "label": "서비스 > 본문 · Vous nous racontez votre projet,",
+              "type": "string"
+            },
+            {
+              "name": "b08_1",
+              "label": "서비스 > 본문 · 02",
+              "type": "string"
+            },
+            {
+              "name": "b08_2",
+              "label": "서비스 > 본문 · Une proposition sur mesure",
+              "type": "string"
+            },
+            {
+              "name": "b08_3",
+              "label": "서비스 > 본문 · Vous recevez une proposition écr",
+              "type": "text"
+            },
+            {
+              "name": "b09_1",
+              "label": "서비스 > 본문 · 03",
+              "type": "string"
+            },
+            {
+              "name": "b09_2",
+              "label": "서비스 > 본문 · Préparer et accompagner",
+              "type": "string"
+            },
+            {
+              "name": "b09_3",
+              "label": "서비스 > 본문 · Nous formons vos équipes aux cod",
+              "type": "text"
+            },
+            {
+              "name": "b10_1",
+              "label": "서비스 > 본문 · 04",
+              "type": "string"
+            },
+            {
+              "name": "b10_2",
+              "label": "서비스 > 본문 · Un suivi après la rencontre",
+              "type": "string"
+            },
+            {
+              "name": "b10_3",
+              "label": "서비스 > 본문 · Relances, comptes rendus, procha",
+              "type": "text"
+            },
+            {
+              "name": "b11_1",
+              "label": "서비스 > 본문 · Contactez nous",
+              "type": "string"
+            },
+            {
+              "name": "b12_1",
+              "label": "서비스 > 본문 · Ils nous ont fait confiance",
+              "type": "string"
+            },
+            {
+              "name": "b13_1",
+              "label": "서비스 > 본문 · Depuis deux ans, nous accompagno",
+              "type": "text"
+            },
+            {
+              "name": "b14_photo",
+              "label": "서비스 > 사진 15",
+              "type": "image"
+            },
+            {
+              "name": "b14_alt",
+              "label": "서비스 > 사진 설명 15",
+              "type": "text"
+            },
+            {
+              "name": "b15_photo",
+              "label": "서비스 > 사진 16",
+              "type": "image"
+            },
+            {
+              "name": "b15_alt",
+              "label": "서비스 > 사진 설명 16",
+              "type": "text"
+            },
+            {
+              "name": "b16_1",
+              "label": "서비스 > 본문 · Marque coréenne de lunetterie - ",
+              "type": "string"
+            },
+            {
+              "name": "b16_2",
+              "label": "서비스 > 본문 · Présence aux côtés d'une marque ",
+              "type": "text"
+            },
+            {
+              "name": "b17_photo",
+              "label": "서비스 > 사진 18",
+              "type": "image"
+            },
+            {
+              "name": "b17_alt",
+              "label": "서비스 > 사진 설명 18",
+              "type": "string"
+            },
+            {
+              "name": "b18_1",
+              "label": "서비스 > 본문 · Délégation institutionnelle - Ré",
+              "type": "string"
+            },
+            {
+              "name": "b18_2",
+              "label": "서비스 > 본문 · Organisation complète d'une visi",
+              "type": "text"
+            },
+            {
+              "name": "b19_photo",
+              "label": "서비스 > 사진 20",
+              "type": "image"
+            },
+            {
+              "name": "b19_alt",
+              "label": "서비스 > 사진 설명 20",
+              "type": "text"
+            },
+            {
+              "name": "b20_photo",
+              "label": "서비스 > 사진 21",
+              "type": "image"
+            },
+            {
+              "name": "b20_alt",
+              "label": "서비스 > 사진 설명 21",
+              "type": "string"
+            },
+            {
+              "name": "b21_photo",
+              "label": "서비스 > 사진 22",
+              "type": "image"
+            },
+            {
+              "name": "b21_alt",
+              "label": "서비스 > 사진 설명 22",
+              "type": "text"
+            },
+            {
+              "name": "b22_1",
+              "label": "서비스 > 본문 · Entreprises agroalimentaires cor",
+              "type": "string"
+            },
+            {
+              "name": "b22_2",
+              "label": "서비스 > 본문 · Interprétariat pendant les cinq ",
+              "type": "text"
+            },
+            {
+              "name": "b23_1",
+              "label": "서비스 > 본문 · Suivre nos actualités sur Linked",
+              "type": "string"
+            },
+            {
+              "name": "b24_1",
+              "label": "서비스 > 본문 · La préparation de votre projet",
+              "type": "string"
+            },
+            {
+              "name": "b25_1",
+              "label": "서비스 > 본문 · Tout projet commence par un prem",
+              "type": "text"
+            },
+            {
+              "name": "b25_2",
+              "label": "서비스 > 본문 · Quel est mon projet, et qu'est-c",
+              "type": "string"
+            },
+            {
+              "name": "b25_3",
+              "label": "서비스 > 본문 · Quels sont mes délais et sont-il",
+              "type": "string"
+            },
+            {
+              "name": "b25_4",
+              "label": "서비스 > 본문 · Qui sont les bons interlocuteurs",
+              "type": "string"
+            },
+            {
+              "name": "b25_5",
+              "label": "서비스 > 본문 · Mon équipe est-elle prête cultur",
+              "type": "string"
+            },
+            {
+              "name": "b25_6",
+              "label": "서비스 > 본문 · C'est l'étape la plus importante",
+              "type": "text"
+            },
+            {
+              "name": "b26_1",
+              "label": "서비스 > 본문 · Contactez-nous pour discuter de ",
+              "type": "string"
+            },
+            {
+              "name": "b26_2",
+              "label": "서비스 > 본문 · Vous pouvez remplir le formulair",
+              "type": "string"
+            },
+            {
+              "name": "b26_3",
+              "label": "서비스 > 본문 · contact@blablakorea.com",
+              "type": "string"
+            },
+            {
+              "name": "b26_4",
+              "label": "서비스 > 본문 · (1er échange offert)",
+              "type": "string"
+            },
+            {
+              "name": "b28_1",
+              "label": "서비스 > 본문 · Pourquoi notre duo fait la diffé",
+              "type": "string"
+            },
+            {
+              "name": "b29_1",
+              "label": "서비스 > 본문 · Un consultant interculturel vous",
+              "type": "text"
+            },
+            {
+              "name": "b29_2",
+              "label": "서비스 > 본문 · Nous, on vous parle des deux en ",
+              "type": "text"
+            },
+            {
+              "name": "b30_1",
+              "label": "서비스 > 본문 · Jonghyuk identifie les interlocu",
+              "type": "text"
+            },
+            {
+              "name": "b30_2",
+              "label": "서비스 > 본문 · Jeanne structure le projet, trad",
+              "type": "text"
+            },
+            {
+              "name": "b30_3",
+              "label": "서비스 > 본문 · Mais avant tout, nous",
+              "type": "string"
+            },
+            {
+              "name": "b30_4",
+              "label": "서비스 > 본문 · continuons d’apprendre",
+              "type": "string"
+            },
+            {
+              "name": "b30_5",
+              "label": "서비스 > 본문 · . Nous allons régulièrement à la",
+              "type": "text"
+            },
+            {
+              "name": "b31_photo",
+              "label": "서비스 > 사진 32",
+              "type": "image"
+            },
+            {
+              "name": "b31_alt",
+              "label": "서비스 > 사진 설명 32",
+              "type": "text"
+            },
+            {
+              "name": "b32_photo",
+              "label": "서비스 > 사진 33",
+              "type": "image"
+            },
+            {
+              "name": "b32_alt",
+              "label": "서비스 > 사진 설명 33",
+              "type": "text"
+            },
+            {
+              "name": "b33_photo",
+              "label": "서비스 > 사진 34",
+              "type": "image"
+            },
+            {
+              "name": "b33_alt",
+              "label": "서비스 > 사진 설명 34",
+              "type": "string"
+            },
+            {
+              "name": "b34_photo",
+              "label": "서비스 > 사진 35",
+              "type": "image"
+            },
+            {
+              "name": "b34_alt",
+              "label": "서비스 > 사진 설명 35",
+              "type": "text"
+            },
+            {
+              "name": "b35_photo",
+              "label": "서비스 > 사진 36",
+              "type": "image"
+            },
+            {
+              "name": "b35_alt",
+              "label": "서비스 > 사진 설명 36",
+              "type": "string"
+            },
+            {
+              "name": "b36_1",
+              "label": "서비스 > 본문 · Le constat qui a tout déclenché",
+              "type": "string"
+            },
+            {
+              "name": "b36_2",
+              "label": "서비스 > 본문 · Jonghyuk le voit depuis toujours",
+              "type": "text"
+            },
+            {
+              "name": "b36_3",
+              "label": "서비스 > 본문 · Jeanne, elle, l’a appris à ses d",
+              "type": "text"
+            },
+            {
+              "name": "b36_4",
+              "label": "서비스 > 본문 · C’est ce double constat qui nous",
+              "type": "string"
+            },
+            {
+              "name": "b36_5",
+              "label": "서비스 > 본문 · pont",
+              "type": "string"
+            },
+            {
+              "name": "b36_6",
+              "label": "서비스 > 본문 · nous-mêmes : pas pour vendre une",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "contact",
+          "label": "문의",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "문의 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "문의 > 본문 · Échangeons ensemble sur votre pr",
+              "type": "string"
+            },
+            {
+              "name": "b00_2",
+              "label": "문의 > 본문 · Un premier échange,",
+              "type": "string"
+            },
+            {
+              "name": "b00_3",
+              "label": "문의 > 본문 · offert",
+              "type": "string"
+            },
+            {
+              "name": "b00_4",
+              "label": "문의 > 본문 · et",
+              "type": "string"
+            },
+            {
+              "name": "b00_5",
+              "label": "문의 > 본문 · sans engagement",
+              "type": "string"
+            },
+            {
+              "name": "b00_6",
+              "label": "문의 > 본문 · , pour comprendre votre projet e",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "legal",
+          "label": "법적 고지",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "법적 고지 > 브라우저 제목",
+              "type": "text"
+            },
+            {
+              "name": "b00_1",
+              "label": "법적 고지 > 본문 · Mentions légales",
+              "type": "string"
+            },
+            {
+              "name": "b01_1",
+              "label": "법적 고지 > 본문 · Identité de l’entreprise",
+              "type": "string"
+            },
+            {
+              "name": "b02_1",
+              "label": "법적 고지 > 본문 · Jonghyuk Lee -  entrepreneur ind",
+              "type": "string"
+            },
+            {
+              "name": "b04_1",
+              "label": "법적 고지 > 본문 · Adresse de l’entreprise",
+              "type": "string"
+            },
+            {
+              "name": "b05_1",
+              "label": "법적 고지 > 본문 · 182 rue Malbec, 33800 Bordeaux, ",
+              "type": "string"
+            },
+            {
+              "name": "b07_1",
+              "label": "법적 고지 > 본문 · Numéro de téléphone",
+              "type": "string"
+            },
+            {
+              "name": "b08_1",
+              "label": "법적 고지 > 본문 · +33 7 66 06 88 65",
+              "type": "string"
+            },
+            {
+              "name": "b10_1",
+              "label": "법적 고지 > 본문 · Adresse e-mail",
+              "type": "string"
+            },
+            {
+              "name": "b11_1",
+              "label": "법적 고지 > 본문 · contact.blablakorea@gmail.com",
+              "type": "string"
+            },
+            {
+              "name": "b13_1",
+              "label": "법적 고지 > 본문 · Nom du propriétaire",
+              "type": "string"
+            },
+            {
+              "name": "b14_1",
+              "label": "법적 고지 > 본문 · Jonghyuk LEE",
+              "type": "string"
+            },
+            {
+              "name": "b16_1",
+              "label": "법적 고지 > 본문 · Numéro d’identification TVA",
+              "type": "string"
+            },
+            {
+              "name": "b17_1",
+              "label": "법적 고지 > 본문 · TVA non applicable, art. 293 B d",
+              "type": "string"
+            },
+            {
+              "name": "b19_1",
+              "label": "법적 고지 > 본문 · Numéro SIREN (RNE)",
+              "type": "string"
+            },
+            {
+              "name": "b20_1",
+              "label": "법적 고지 > 본문 · 107 286 312",
+              "type": "string"
+            },
+            {
+              "name": "b22_1",
+              "label": "법적 고지 > 본문 · Identité de l’hébergeur du site",
+              "type": "string"
+            },
+            {
+              "name": "b23_1",
+              "label": "법적 고지 > 호스팅 서비스와 운영사",
+              "type": "string"
+            },
+            {
+              "name": "b25_1",
+              "label": "법적 고지 > 본문 · Adresse de l’hébergeur du site",
+              "type": "string"
+            },
+            {
+              "name": "b26_1",
+              "label": "법적 고지 > 호스팅 업체 공식 연락처",
+              "type": "string"
+            },
+            {
+              "name": "b28_1",
+              "label": "법적 고지 > 본문 · Mention relative à la propriété ",
+              "type": "string"
+            },
+            {
+              "name": "b29_1",
+              "label": "법적 고지 > 본문 · L'ensemble des contenus de ce si",
+              "type": "text"
+            },
+            {
+              "name": "b31_1",
+              "label": "법적 고지 > 본문 · Clause de non-responsabilité",
+              "type": "string"
+            },
+            {
+              "name": "b32_1",
+              "label": "법적 고지 > 본문 · Blabla Korea s'efforce d'assurer",
+              "type": "text"
+            },
+            {
+              "name": "b34_1",
+              "label": "법적 고지 > 본문 · Traitement des données personnel",
+              "type": "text"
+            },
+            {
+              "name": "b35_1",
+              "label": "법적 고지 > 본문 · Les données personnelles collect",
+              "type": "text"
+            },
+            {
+              "name": "b35_2",
+              "label": "법적 고지 > 본문 · confidentialité",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "privacy",
+          "label": "개인정보처리방침",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "개인정보처리방침 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "개인정보처리방침 > 본문 · Politique de confidentialité",
+              "type": "string"
+            },
+            {
+              "name": "b00_2",
+              "label": "개인정보처리방침 > 본문 · Dernière mise à jour : juillet 2",
+              "type": "string"
+            },
+            {
+              "name": "b00_3",
+              "label": "개인정보처리방침 > 본문 · Qui sommes-nous ?",
+              "type": "string"
+            },
+            {
+              "name": "b00_4",
+              "label": "개인정보처리방침 > 본문 · Blabla Korea est un service de f",
+              "type": "text"
+            },
+            {
+              "name": "b00_5",
+              "label": "개인정보처리방침 > 본문 · Quelles données collectons-nous ",
+              "type": "string"
+            },
+            {
+              "name": "b00_6",
+              "label": "개인정보처리방침 > 본문 · Nous collectons uniquement les d",
+              "type": "text"
+            },
+            {
+              "name": "b00_7",
+              "label": "개인정보처리방침 > 본문 · Pourquoi utilisons-nous ces donn",
+              "type": "string"
+            },
+            {
+              "name": "b00_8",
+              "label": "개인정보처리방침 > 본문 · Vos données sont utilisées exclu",
+              "type": "text"
+            },
+            {
+              "name": "b00_9",
+              "label": "개인정보처리방침 > 본문 · Combien de temps conservons-nous",
+              "type": "string"
+            },
+            {
+              "name": "b00_10",
+              "label": "개인정보처리방침 > 본문 · Vos données sont conservées le t",
+              "type": "text"
+            },
+            {
+              "name": "b00_11",
+              "label": "개인정보처리방침 > 본문 · Vos droits",
+              "type": "string"
+            },
+            {
+              "name": "b00_12",
+              "label": "개인정보처리방침 > 본문 · Conformément au Règlement Généra",
+              "type": "text"
+            },
+            {
+              "name": "b00_13",
+              "label": "개인정보처리방침 > 본문 · Hébergement du site",
+              "type": "string"
+            },
+            {
+              "name": "b00_14",
+              "label": "개인정보처리방침 > 호스팅 안내",
+              "type": "text"
+            },
+            {
+              "name": "b00_15",
+              "label": "개인정보처리방침 > 호스팅 업체 개인정보 링크 이름",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "about",
+          "label": "소개",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "소개 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "소개 > 본문 · Votre porte d'entrée vers la Cor",
+              "type": "string"
+            },
+            {
+              "name": "b01_1",
+              "label": "소개 > 본문 · Un duo franco-coréen",
+              "type": "string"
+            },
+            {
+              "name": "b01_2",
+              "label": "소개 > 본문 · Blabla Korea, c’est",
+              "type": "string"
+            },
+            {
+              "name": "b01_3",
+              "label": "소개 > 본문 · l’association de deux regards",
+              "type": "string"
+            },
+            {
+              "name": "b01_4",
+              "label": "소개 > 본문 · sur les relations professionnell",
+              "type": "string"
+            },
+            {
+              "name": "b01_5",
+              "label": "소개 > 본문 · Jonghyuk",
+              "type": "string"
+            },
+            {
+              "name": "b01_6",
+              "label": "소개 > 본문 · , originaire de Daegu, connaît d",
+              "type": "text"
+            },
+            {
+              "name": "b01_7",
+              "label": "소개 > 본문 · Jeanne",
+              "type": "string"
+            },
+            {
+              "name": "b01_8",
+              "label": "소개 > 본문 · a cinq ans d’expérience en commu",
+              "type": "text"
+            },
+            {
+              "name": "b01_9",
+              "label": "소개 > 본문 · Ensemble, nous agissons comme vo",
+              "type": "string"
+            },
+            {
+              "name": "b01_10",
+              "label": "소개 > 본문 · pont entre la France et la Corée",
+              "type": "string"
+            },
+            {
+              "name": "b01_11",
+              "label": "소개 > 본문 · : que vous soyez une entreprise ",
+              "type": "text"
+            },
+            {
+              "name": "b02_photo",
+              "label": "소개 > 사진 3",
+              "type": "image"
+            },
+            {
+              "name": "b02_alt",
+              "label": "소개 > 사진 설명 3",
+              "type": "text"
+            },
+            {
+              "name": "b03_photo",
+              "label": "소개 > 사진 4",
+              "type": "image"
+            },
+            {
+              "name": "b03_alt",
+              "label": "소개 > 사진 설명 4",
+              "type": "string"
+            },
+            {
+              "name": "b04_1",
+              "label": "소개 > 본문 · Qui sommes-nous ?",
+              "type": "string"
+            },
+            {
+              "name": "b05_photo",
+              "label": "소개 > 사진 6",
+              "type": "image"
+            },
+            {
+              "name": "b05_alt",
+              "label": "소개 > 사진 설명 6",
+              "type": "text"
+            },
+            {
+              "name": "b07_1",
+              "label": "소개 > 본문 · Jeanne Lethielleux",
+              "type": "string"
+            },
+            {
+              "name": "b08_1",
+              "label": "소개 > 본문 · Fondatrice - Experte en gestion ",
+              "type": "string"
+            },
+            {
+              "name": "b08_2",
+              "label": "소개 > 본문 · Je suis celle qui garde le cap. ",
+              "type": "text"
+            },
+            {
+              "name": "b08_3",
+              "label": "소개 > 본문 · Chez Blabla Korea, je suis celle",
+              "type": "text"
+            },
+            {
+              "name": "b10_photo",
+              "label": "소개 > 사진 11",
+              "type": "image"
+            },
+            {
+              "name": "b10_alt",
+              "label": "소개 > 사진 설명 11",
+              "type": "text"
+            },
+            {
+              "name": "b11_1",
+              "label": "소개 > 본문 · Fondateur - Expert Corée et busi",
+              "type": "string"
+            },
+            {
+              "name": "b11_2",
+              "label": "소개 > 본문 · Je suis celui qui va vers l'autr",
+              "type": "string"
+            },
+            {
+              "name": "b11_3",
+              "label": "소개 > 본문 · Chez Blabla Korea, je suis celui",
+              "type": "text"
+            },
+            {
+              "name": "b12_1",
+              "label": "소개 > 본문 · Jonghyuk Lee",
+              "type": "string"
+            },
+            {
+              "name": "b13_photo",
+              "label": "소개 > 사진 14",
+              "type": "image"
+            },
+            {
+              "name": "b13_alt",
+              "label": "소개 > 사진 설명 14",
+              "type": "text"
+            },
+            {
+              "name": "b14_photo",
+              "label": "소개 > 사진 15",
+              "type": "image"
+            },
+            {
+              "name": "b14_alt",
+              "label": "소개 > 사진 설명 15",
+              "type": "text"
+            },
+            {
+              "name": "b15_1",
+              "label": "소개 > 본문 · Les personnes sans qui ce projet",
+              "type": "string"
+            },
+            {
+              "name": "b16_1",
+              "label": "소개 > 본문 · Photographe",
+              "type": "string"
+            },
+            {
+              "name": "b16_2",
+              "label": "소개 > 본문 · Parce que ce projet se voulait à",
+              "type": "text"
+            },
+            {
+              "name": "b17_1",
+              "label": "소개 > 본문 · Léo Lethielleux",
+              "type": "string"
+            },
+            {
+              "name": "b18_1",
+              "label": "소개 > 본문 · Voir son portfolio",
+              "type": "string"
+            },
+            {
+              "name": "b19_photo",
+              "label": "소개 > 사진 20",
+              "type": "image"
+            },
+            {
+              "name": "b19_alt",
+              "label": "소개 > 사진 설명 20",
+              "type": "text"
+            },
+            {
+              "name": "b20_photo",
+              "label": "소개 > 사진 21",
+              "type": "image"
+            },
+            {
+              "name": "b20_alt",
+              "label": "소개 > 사진 설명 21",
+              "type": "text"
+            },
+            {
+              "name": "b21_1",
+              "label": "소개 > 본문 · Ambassadrice K-beauty et mode",
+              "type": "string"
+            },
+            {
+              "name": "b21_2",
+              "label": "소개 > 본문 · Parce que ce projet gagne à être",
+              "type": "text"
+            },
+            {
+              "name": "b21_3",
+              "label": "소개 > 본문 · The Perfume Avenue",
+              "type": "string"
+            },
+            {
+              "name": "b21_4",
+              "label": "소개 > 본문 · , Hyanggi est notre reporter sur",
+              "type": "text"
+            },
+            {
+              "name": "b21_5",
+              "label": "소개 > 본문 · Multiple médaillée d'or en conco",
+              "type": "text"
+            },
+            {
+              "name": "b22_1",
+              "label": "소개 > 본문 · Hyanggi Lee",
+              "type": "string"
+            },
+            {
+              "name": "b23_1",
+              "label": "소개 > 본문 · À propos de notre projet",
+              "type": "string"
+            },
+            {
+              "name": "b24_1",
+              "label": "소개 > 본문 · Nous avons chacun vécu dans le p",
+              "type": "text"
+            },
+            {
+              "name": "b24_2",
+              "label": "소개 > 본문 · C'est de cette expérience commun",
+              "type": "text"
+            },
+            {
+              "name": "b24_3",
+              "label": "소개 > 본문 · Notre force ? Une connaissance i",
+              "type": "string"
+            },
+            {
+              "name": "b24_4",
+              "label": "소개 > 본문 · complémentarité",
+              "type": "string"
+            },
+            {
+              "name": "b24_5",
+              "label": "소개 > 본문 · qui nous permet de couvrir ensem",
+              "type": "string"
+            },
+            {
+              "name": "b24_6",
+              "label": "소개 > 본문 · Notre mot d'ordre, c'est l'",
+              "type": "string"
+            },
+            {
+              "name": "b24_7",
+              "label": "소개 > 본문 · échange",
+              "type": "string"
+            },
+            {
+              "name": "b24_8",
+              "label": "소개 > 본문 · . Avant toute chose, nous prenon",
+              "type": "text"
+            },
+            {
+              "name": "b24_9",
+              "label": "소개 > 본문 · conversation",
+              "type": "string"
+            },
+            {
+              "name": "b24_10",
+              "label": "소개 > 본문 · et que chaque projet mérite une",
+              "type": "string"
+            },
+            {
+              "name": "b24_11",
+              "label": "소개 > 본문 · réponse sur mesure.",
+              "type": "string"
+            },
+            {
+              "name": "b25_photo",
+              "label": "소개 > 사진 26",
+              "type": "image"
+            },
+            {
+              "name": "b25_alt",
+              "label": "소개 > 사진 설명 26",
+              "type": "string"
+            },
+            {
+              "name": "b26_1",
+              "label": "소개 > 본문 · Nous vous accompagnons pour réal",
+              "type": "string"
+            },
+            {
+              "name": "b27_1",
+              "label": "소개 > 본문 · Notre expertise",
+              "type": "string"
+            },
+            {
+              "name": "b28_1",
+              "label": "소개 > 본문 · Expertise B2B",
+              "type": "string"
+            },
+            {
+              "name": "b28_2",
+              "label": "소개 > 본문 · Facilitation France-Corée",
+              "type": "string"
+            },
+            {
+              "name": "b28_3",
+              "label": "소개 > 본문 · Un projet avec la Corée ? Parlon",
+              "type": "string"
+            },
+            {
+              "name": "b29_1",
+              "label": "소개 > 본문 · Découvrez l'offre B2B",
+              "type": "string"
+            },
+            {
+              "name": "b32_1",
+              "label": "소개 > 본문 · Échangeons ensemble sur votre pr",
+              "type": "string"
+            },
+            {
+              "name": "b32_2",
+              "label": "소개 > 본문 · Un premier échange,",
+              "type": "string"
+            },
+            {
+              "name": "b32_3",
+              "label": "소개 > 본문 · offert",
+              "type": "string"
+            },
+            {
+              "name": "b32_4",
+              "label": "소개 > 본문 · et",
+              "type": "string"
+            },
+            {
+              "name": "b32_5",
+              "label": "소개 > 본문 · sans engagement",
+              "type": "string"
+            },
+            {
+              "name": "b32_6",
+              "label": "소개 > 본문 · , pour comprendre votre projet e",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "home",
+          "label": "홈",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "홈 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "홈 > 첫 화면 제목 · Votre pont entre la France et la",
+              "type": "string"
+            },
+            {
+              "name": "b01_1",
+              "label": "홈 > 본문 · Un expert commercial natif de Da",
+              "type": "string"
+            },
+            {
+              "name": "b01_2",
+              "label": "홈 > 본문 · Ensemble, nous vous ouvrons les ",
+              "type": "text"
+            },
+            {
+              "name": "b02_1",
+              "label": "홈 > 본문 · Découvrez notre accompagnement",
+              "type": "string"
+            },
+            {
+              "name": "b03_photo",
+              "label": "홈 > 사진 4",
+              "type": "image"
+            },
+            {
+              "name": "b03_alt",
+              "label": "홈 > 사진 설명 4",
+              "type": "string"
+            },
+            {
+              "name": "b04_1",
+              "label": "홈 > 본문 · Notre expertise",
+              "type": "string"
+            },
+            {
+              "name": "b05_1",
+              "label": "홈 > 본문 · Nous accompagnons les entreprise",
+              "type": "text"
+            },
+            {
+              "name": "b06_1",
+              "label": "홈 > 본문 · Expertise B2B",
+              "type": "string"
+            },
+            {
+              "name": "b06_2",
+              "label": "홈 > 본문 · Facilitation France-Corée",
+              "type": "string"
+            },
+            {
+              "name": "b06_3",
+              "label": "홈 > 본문 · Un projet avec la Corée ? Parlon",
+              "type": "string"
+            },
+            {
+              "name": "b06_4",
+              "label": "홈 > 본문 · Organisation de rendez-vous ache",
+              "type": "string"
+            },
+            {
+              "name": "b06_5",
+              "label": "홈 > 본문 · Accompagnement de missions explo",
+              "type": "string"
+            },
+            {
+              "name": "b06_6",
+              "label": "홈 > 본문 · Ateliers en entreprise : marché ",
+              "type": "string"
+            },
+            {
+              "name": "b06_7",
+              "label": "홈 > 본문 · Présence à vos côtés sur salons ",
+              "type": "string"
+            },
+            {
+              "name": "b07_1",
+              "label": "홈 > 본문 · Découvrez l'offre B2B",
+              "type": "string"
+            },
+            {
+              "name": "b08_photo",
+              "label": "홈 > 사진 9",
+              "type": "image"
+            },
+            {
+              "name": "b08_alt",
+              "label": "홈 > 사진 설명 9",
+              "type": "string"
+            },
+            {
+              "name": "b09_photo",
+              "label": "홈 > 사진 10",
+              "type": "image"
+            },
+            {
+              "name": "b09_alt",
+              "label": "홈 > 사진 설명 10",
+              "type": "string"
+            },
+            {
+              "name": "b12_photo",
+              "label": "홈 > 사진 13",
+              "type": "image"
+            },
+            {
+              "name": "b12_alt",
+              "label": "홈 > 사진 설명 13",
+              "type": "string"
+            },
+            {
+              "name": "b15_1",
+              "label": "홈 > 본문 · Suivez nos aventures",
+              "type": "string"
+            },
+            {
+              "name": "b16_photo",
+              "label": "홈 > 사진 17",
+              "type": "image"
+            },
+            {
+              "name": "b16_alt",
+              "label": "홈 > 사진 설명 17",
+              "type": "string"
+            },
+            {
+              "name": "b17_photo",
+              "label": "홈 > 사진 18",
+              "type": "image"
+            },
+            {
+              "name": "b17_alt",
+              "label": "홈 > 사진 설명 18",
+              "type": "string"
+            },
+            {
+              "name": "b18_photo",
+              "label": "홈 > 사진 19",
+              "type": "image"
+            },
+            {
+              "name": "b18_alt",
+              "label": "홈 > 사진 설명 19",
+              "type": "string"
+            },
+            {
+              "name": "b19_photo",
+              "label": "홈 > 사진 20",
+              "type": "image"
+            },
+            {
+              "name": "b19_alt",
+              "label": "홈 > 사진 설명 20",
+              "type": "string"
+            },
+            {
+              "name": "b20_1",
+              "label": "홈 > 본문 · Découvrez notre projet",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "common",
+          "label": "공통",
+          "type": "object",
+          "fields": [
+            {
+              "name": "brand",
+              "label": "공통 > 브랜드 이름",
+              "type": "string"
+            },
+            {
+              "name": "about",
+              "label": "공통 > 소개 메뉴",
+              "type": "string"
+            },
+            {
+              "name": "service",
+              "label": "공통 > 서비스 메뉴",
+              "type": "string"
+            },
+            {
+              "name": "blog",
+              "label": "공통 > 글 목록 메뉴",
+              "type": "string"
+            },
+            {
+              "name": "contact",
+              "label": "공통 > 문의 메뉴",
+              "type": "string"
+            },
+            {
+              "name": "fr",
+              "label": "공통 > 불어 전환",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "공통 > 영어 전환",
+              "type": "string"
+            },
+            {
+              "name": "ko",
+              "label": "공통 > 한국어 전환",
+              "type": "string"
+            },
+            {
+              "name": "legal",
+              "label": "공통 > 법적 고지 링크",
+              "type": "string"
+            },
+            {
+              "name": "privacy",
+              "label": "공통 > 개인정보 링크",
+              "type": "string"
+            },
+            {
+              "name": "email",
+              "label": "공통 > 문의 메일 주소",
+              "type": "string"
+            },
+            {
+              "name": "linkedin",
+              "label": "공통 > 링크드인",
+              "type": "string"
+            },
+            {
+              "name": "name",
+              "label": "공통 > 양식 이름",
+              "type": "string"
+            },
+            {
+              "name": "company",
+              "label": "공통 > 양식 회사",
+              "type": "string"
+            },
+            {
+              "name": "email_label",
+              "label": "공통 > 양식 이메일",
+              "type": "string"
+            },
+            {
+              "name": "message",
+              "label": "공통 > 양식 메시지",
+              "type": "string"
+            },
+            {
+              "name": "send",
+              "label": "공통 > 양식 전송 버튼",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "articles_fr",
+      "label": "불어 · 글 모음",
+      "type": "collection",
+      "path": "_articles_fr",
+      "filename": "{year}-{month}-{day}-{primary}.md",
+      "fields": [
+        {
+          "name": "title",
+          "label": "글 제목",
+          "type": "string",
+          "required": true
+        },
+        {
+          "name": "date",
+          "label": "게시일",
+          "type": "date",
+          "required": true
+        },
+        {
+          "name": "body",
+          "label": "본문",
+          "type": "rich-text"
+        }
+      ]
+    },
+    {
+      "name": "copy_en",
+      "label": "영어 · 전체 문구와 사진",
+      "type": "file",
+      "path": "_data/en.yml",
+      "fields": [
+        {
+          "name": "about",
+          "label": "소개",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "소개 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "소개 > 본문 · Your gateway to Korea",
+              "type": "string"
+            },
+            {
+              "name": "b01_1",
+              "label": "소개 > 본문 · A French-Korean duo",
+              "type": "string"
+            },
+            {
+              "name": "b01_2",
+              "label": "소개 > 본문 · Blabla Korea, it is",
+              "type": "string"
+            },
+            {
+              "name": "b01_3",
+              "label": "소개 > 본문 · a combination of two perspective",
+              "type": "string"
+            },
+            {
+              "name": "b01_4",
+              "label": "소개 > 본문 · on professional relations betwee",
+              "type": "string"
+            },
+            {
+              "name": "b01_5",
+              "label": "소개 > 본문 · Jonghyuk",
+              "type": "string"
+            },
+            {
+              "name": "b01_6",
+              "label": "소개 > 본문 · , a native of Daegu, has first-h",
+              "type": "text"
+            },
+            {
+              "name": "b01_7",
+              "label": "소개 > 본문 · Jeanne",
+              "type": "string"
+            },
+            {
+              "name": "b01_8",
+              "label": "소개 > 본문 · has five years of experience in ",
+              "type": "text"
+            },
+            {
+              "name": "b01_9",
+              "label": "소개 > 본문 · Together, we serve as your",
+              "type": "string"
+            },
+            {
+              "name": "b01_10",
+              "label": "소개 > 본문 · bridge between France and Korea",
+              "type": "string"
+            },
+            {
+              "name": "b01_11",
+              "label": "소개 > 본문 · : whether you’re a French compan",
+              "type": "text"
+            },
+            {
+              "name": "b02_photo",
+              "label": "소개 > 사진 3",
+              "type": "image"
+            },
+            {
+              "name": "b02_alt",
+              "label": "소개 > 사진 설명 3",
+              "type": "text"
+            },
+            {
+              "name": "b03_photo",
+              "label": "소개 > 사진 4",
+              "type": "image"
+            },
+            {
+              "name": "b03_alt",
+              "label": "소개 > 사진 설명 4",
+              "type": "string"
+            },
+            {
+              "name": "b04_1",
+              "label": "소개 > 본문 · About us",
+              "type": "string"
+            },
+            {
+              "name": "b05_photo",
+              "label": "소개 > 사진 6",
+              "type": "image"
+            },
+            {
+              "name": "b05_alt",
+              "label": "소개 > 사진 설명 6",
+              "type": "text"
+            },
+            {
+              "name": "b07_1",
+              "label": "소개 > 본문 · Jeanne Lethielleux",
+              "type": "string"
+            },
+            {
+              "name": "b08_1",
+              "label": "소개 > 본문 · Founder - Expert in project mana",
+              "type": "string"
+            },
+            {
+              "name": "b08_2",
+              "label": "소개 > 본문 · I am the one who keeps things on",
+              "type": "text"
+            },
+            {
+              "name": "b08_3",
+              "label": "소개 > 본문 · At Blabla Korea, I provide struc",
+              "type": "text"
+            },
+            {
+              "name": "b10_photo",
+              "label": "소개 > 사진 11",
+              "type": "image"
+            },
+            {
+              "name": "b10_alt",
+              "label": "소개 > 사진 설명 11",
+              "type": "text"
+            },
+            {
+              "name": "b11_1",
+              "label": "소개 > 본문 · Founder - Korea and business exp",
+              "type": "string"
+            },
+            {
+              "name": "b11_2",
+              "label": "소개 > 본문 · I am the one who reaches out to ",
+              "type": "string"
+            },
+            {
+              "name": "b11_3",
+              "label": "소개 > 본문 · At Blabla Korea, I am the one wh",
+              "type": "text"
+            },
+            {
+              "name": "b12_1",
+              "label": "소개 > 본문 · Jonghyuk Lee",
+              "type": "string"
+            },
+            {
+              "name": "b13_photo",
+              "label": "소개 > 사진 14",
+              "type": "image"
+            },
+            {
+              "name": "b13_alt",
+              "label": "소개 > 사진 설명 14",
+              "type": "text"
+            },
+            {
+              "name": "b14_photo",
+              "label": "소개 > 사진 15",
+              "type": "image"
+            },
+            {
+              "name": "b14_alt",
+              "label": "소개 > 사진 설명 15",
+              "type": "text"
+            },
+            {
+              "name": "b15_1",
+              "label": "소개 > 본문 · The people without whom this pro",
+              "type": "string"
+            },
+            {
+              "name": "b16_1",
+              "label": "소개 > 본문 · Photographer",
+              "type": "string"
+            },
+            {
+              "name": "b16_2",
+              "label": "소개 > 본문 · Because this project was meant t",
+              "type": "text"
+            },
+            {
+              "name": "b17_1",
+              "label": "소개 > 본문 · Léo Lethielleux",
+              "type": "string"
+            },
+            {
+              "name": "b18_1",
+              "label": "소개 > 본문 · View her portfolio",
+              "type": "string"
+            },
+            {
+              "name": "b19_photo",
+              "label": "소개 > 사진 20",
+              "type": "image"
+            },
+            {
+              "name": "b19_alt",
+              "label": "소개 > 사진 설명 20",
+              "type": "text"
+            },
+            {
+              "name": "b20_photo",
+              "label": "소개 > 사진 21",
+              "type": "image"
+            },
+            {
+              "name": "b20_alt",
+              "label": "소개 > 사진 설명 21",
+              "type": "text"
+            },
+            {
+              "name": "b21_1",
+              "label": "소개 > 본문 · K-Beauty and Fashion Ambassador",
+              "type": "string"
+            },
+            {
+              "name": "b21_2",
+              "label": "소개 > 본문 · Since this project is best exper",
+              "type": "text"
+            },
+            {
+              "name": "b21_3",
+              "label": "소개 > 본문 · The Perfume Avenue",
+              "type": "string"
+            },
+            {
+              "name": "b21_4",
+              "label": "소개 > 본문 · , Hyanggi is our field reporter.",
+              "type": "text"
+            },
+            {
+              "name": "b21_5",
+              "label": "소개 > 본문 · A multiple gold medalist in inte",
+              "type": "text"
+            },
+            {
+              "name": "b22_1",
+              "label": "소개 > 본문 · Hyanggi Lee",
+              "type": "string"
+            },
+            {
+              "name": "b23_1",
+              "label": "소개 > 본문 · About our project",
+              "type": "string"
+            },
+            {
+              "name": "b24_1",
+              "label": "소개 > 본문 · We have each lived in the other'",
+              "type": "text"
+            },
+            {
+              "name": "b24_2",
+              "label": "소개 > 본문 · It was from this shared experien",
+              "type": "text"
+            },
+            {
+              "name": "b24_3",
+              "label": "소개 > 본문 · Our strength? An in-depth knowle",
+              "type": "string"
+            },
+            {
+              "name": "b24_4",
+              "label": "소개 > 본문 · complementary skill set",
+              "type": "string"
+            },
+            {
+              "name": "b24_5",
+              "label": "소개 > 본문 · that allows us to cover together",
+              "type": "string"
+            },
+            {
+              "name": "b24_6",
+              "label": "소개 > 본문 · Our motto is",
+              "type": "string"
+            },
+            {
+              "name": "b24_7",
+              "label": "소개 > 본문 · exchange",
+              "type": "string"
+            },
+            {
+              "name": "b24_8",
+              "label": "소개 > 본문 · . Above all, we take the time to",
+              "type": "text"
+            },
+            {
+              "name": "b24_9",
+              "label": "소개 > 본문 · conversation",
+              "type": "string"
+            },
+            {
+              "name": "b24_10",
+              "label": "소개 > 본문 · , and every project deserves a",
+              "type": "string"
+            },
+            {
+              "name": "b24_11",
+              "label": "소개 > 본문 · tailored solution.",
+              "type": "string"
+            },
+            {
+              "name": "b25_photo",
+              "label": "소개 > 사진 26",
+              "type": "image"
+            },
+            {
+              "name": "b25_alt",
+              "label": "소개 > 사진 설명 26",
+              "type": "string"
+            },
+            {
+              "name": "b26_1",
+              "label": "소개 > 본문 · We'll help you bring your projec",
+              "type": "string"
+            },
+            {
+              "name": "b27_1",
+              "label": "소개 > 본문 · Our expertise",
+              "type": "string"
+            },
+            {
+              "name": "b28_1",
+              "label": "소개 > 본문 · B2B expertise",
+              "type": "string"
+            },
+            {
+              "name": "b28_2",
+              "label": "소개 > 본문 · France-Korea facilitation",
+              "type": "string"
+            },
+            {
+              "name": "b28_3",
+              "label": "소개 > 본문 · A project with Korea? Let's talk",
+              "type": "string"
+            },
+            {
+              "name": "b29_1",
+              "label": "소개 > 본문 · Discover our B2B offerings",
+              "type": "string"
+            },
+            {
+              "name": "b32_1",
+              "label": "소개 > 본문 · Let's discuss your project toget",
+              "type": "string"
+            },
+            {
+              "name": "b32_2",
+              "label": "소개 > 본문 · A first consultation,",
+              "type": "string"
+            },
+            {
+              "name": "b32_3",
+              "label": "소개 > 본문 · free",
+              "type": "string"
+            },
+            {
+              "name": "b32_4",
+              "label": "소개 > 본문 · and",
+              "type": "string"
+            },
+            {
+              "name": "b32_5",
+              "label": "소개 > 본문 · without obligation",
+              "type": "string"
+            },
+            {
+              "name": "b32_6",
+              "label": "소개 > 본문 · , to understand your project and",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "service",
+          "label": "서비스",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "서비스 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "서비스 > 본문 · When two professional worlds don",
+              "type": "string"
+            },
+            {
+              "name": "b01_1",
+              "label": "서비스 > 본문 · France and South Korea have long",
+              "type": "text"
+            },
+            {
+              "name": "b02_photo",
+              "label": "서비스 > 사진 3",
+              "type": "image"
+            },
+            {
+              "name": "b02_alt",
+              "label": "서비스 > 사진 설명 3",
+              "type": "text"
+            },
+            {
+              "name": "b03_photo",
+              "label": "서비스 > 사진 4",
+              "type": "image"
+            },
+            {
+              "name": "b03_alt",
+              "label": "서비스 > 사진 설명 4",
+              "type": "text"
+            },
+            {
+              "name": "b04_photo",
+              "label": "서비스 > 사진 5",
+              "type": "image"
+            },
+            {
+              "name": "b04_alt",
+              "label": "서비스 > 사진 설명 5",
+              "type": "text"
+            },
+            {
+              "name": "b05_1",
+              "label": "서비스 > 본문 · How does it work?",
+              "type": "string"
+            },
+            {
+              "name": "b06_1",
+              "label": "서비스 > 본문 · A bridge stands because it has t",
+              "type": "string"
+            },
+            {
+              "name": "b06_2",
+              "label": "서비스 > 본문 · It's the combination of",
+              "type": "string"
+            },
+            {
+              "name": "b06_3",
+              "label": "서비스 > 본문 · our two perspectives",
+              "type": "string"
+            },
+            {
+              "name": "b06_4",
+              "label": "서비스 > 본문 · that allows us to guide you acro",
+              "type": "string"
+            },
+            {
+              "name": "b07_1",
+              "label": "서비스 > 본문 · 01",
+              "type": "string"
+            },
+            {
+              "name": "b07_2",
+              "label": "서비스 > 본문 · Exchange",
+              "type": "string"
+            },
+            {
+              "name": "b07_3",
+              "label": "서비스 > 본문 · A 30-minute call, free of charge",
+              "type": "string"
+            },
+            {
+              "name": "b07_4",
+              "label": "서비스 > 본문 · Tell us about your project, and ",
+              "type": "string"
+            },
+            {
+              "name": "b08_1",
+              "label": "서비스 > 본문 · 02",
+              "type": "string"
+            },
+            {
+              "name": "b08_2",
+              "label": "서비스 > 본문 · A customized proposal",
+              "type": "string"
+            },
+            {
+              "name": "b08_3",
+              "label": "서비스 > 본문 · You will receive a written propo",
+              "type": "text"
+            },
+            {
+              "name": "b09_1",
+              "label": "서비스 > 본문 · 03",
+              "type": "string"
+            },
+            {
+              "name": "b09_2",
+              "label": "서비스 > 본문 · Prepare and support",
+              "type": "string"
+            },
+            {
+              "name": "b09_3",
+              "label": "서비스 > 본문 · We train your teams in business ",
+              "type": "text"
+            },
+            {
+              "name": "b10_1",
+              "label": "서비스 > 본문 · 04",
+              "type": "string"
+            },
+            {
+              "name": "b10_2",
+              "label": "서비스 > 본문 · Follow-up after the meeting",
+              "type": "string"
+            },
+            {
+              "name": "b10_3",
+              "label": "서비스 > 본문 · Follow-ups, debriefings, upcomin",
+              "type": "text"
+            },
+            {
+              "name": "b11_1",
+              "label": "서비스 > 본문 · Contact Us",
+              "type": "string"
+            },
+            {
+              "name": "b12_1",
+              "label": "서비스 > 본문 · They placed their trust in us",
+              "type": "string"
+            },
+            {
+              "name": "b13_1",
+              "label": "서비스 > 본문 · For the past two years, we have ",
+              "type": "text"
+            },
+            {
+              "name": "b14_photo",
+              "label": "서비스 > 사진 15",
+              "type": "image"
+            },
+            {
+              "name": "b14_alt",
+              "label": "서비스 > 사진 설명 15",
+              "type": "text"
+            },
+            {
+              "name": "b15_photo",
+              "label": "서비스 > 사진 16",
+              "type": "image"
+            },
+            {
+              "name": "b15_alt",
+              "label": "서비스 > 사진 설명 16",
+              "type": "text"
+            },
+            {
+              "name": "b16_1",
+              "label": "서비스 > 본문 · Korean eyewear brand - SILMO Par",
+              "type": "string"
+            },
+            {
+              "name": "b16_2",
+              "label": "서비스 > 본문 · Support for a Korean eyewear bra",
+              "type": "text"
+            },
+            {
+              "name": "b17_photo",
+              "label": "서비스 > 사진 18",
+              "type": "image"
+            },
+            {
+              "name": "b17_alt",
+              "label": "서비스 > 사진 설명 18",
+              "type": "string"
+            },
+            {
+              "name": "b18_1",
+              "label": "서비스 > 본문 · Institutional Delegation - Andon",
+              "type": "string"
+            },
+            {
+              "name": "b18_2",
+              "label": "서비스 > 본문 · Comprehensive organization of a ",
+              "type": "text"
+            },
+            {
+              "name": "b19_photo",
+              "label": "서비스 > 사진 20",
+              "type": "image"
+            },
+            {
+              "name": "b19_alt",
+              "label": "서비스 > 사진 설명 20",
+              "type": "text"
+            },
+            {
+              "name": "b20_photo",
+              "label": "서비스 > 사진 21",
+              "type": "image"
+            },
+            {
+              "name": "b20_alt",
+              "label": "서비스 > 사진 설명 21",
+              "type": "string"
+            },
+            {
+              "name": "b21_photo",
+              "label": "서비스 > 사진 22",
+              "type": "image"
+            },
+            {
+              "name": "b21_alt",
+              "label": "서비스 > 사진 설명 22",
+              "type": "text"
+            },
+            {
+              "name": "b22_1",
+              "label": "서비스 > 본문 · Korean Food and Beverage Compani",
+              "type": "string"
+            },
+            {
+              "name": "b22_2",
+              "label": "서비스 > 본문 · Interpretation services during t",
+              "type": "text"
+            },
+            {
+              "name": "b23_1",
+              "label": "서비스 > 본문 · Follow our news on LinkedIn",
+              "type": "string"
+            },
+            {
+              "name": "b24_1",
+              "label": "서비스 > 본문 · Preparing Your Project",
+              "type": "string"
+            },
+            {
+              "name": "b25_1",
+              "label": "서비스 > 본문 · Every project begins with an ini",
+              "type": "text"
+            },
+            {
+              "name": "b25_2",
+              "label": "서비스 > 본문 · What is my goal, and what does s",
+              "type": "string"
+            },
+            {
+              "name": "b25_3",
+              "label": "서비스 > 본문 · What are my deadlines, and are t",
+              "type": "string"
+            },
+            {
+              "name": "b25_4",
+              "label": "서비스 > 본문 · Who are the right people to cont",
+              "type": "string"
+            },
+            {
+              "name": "b25_5",
+              "label": "서비스 > 본문 · Is my team culturally ready for ",
+              "type": "string"
+            },
+            {
+              "name": "b25_6",
+              "label": "서비스 > 본문 · This is the most important step:",
+              "type": "text"
+            },
+            {
+              "name": "b26_1",
+              "label": "서비스 > 본문 · Contact us to discuss your proje",
+              "type": "string"
+            },
+            {
+              "name": "b26_2",
+              "label": "서비스 > 본문 · You can fill out the form below ",
+              "type": "string"
+            },
+            {
+              "name": "b26_3",
+              "label": "서비스 > 본문 · contact@blablakorea.com",
+              "type": "string"
+            },
+            {
+              "name": "b26_4",
+              "label": "서비스 > 본문 · (First consultation is free)",
+              "type": "string"
+            },
+            {
+              "name": "b28_1",
+              "label": "서비스 > 본문 · Why does our duo make a differen",
+              "type": "string"
+            },
+            {
+              "name": "b29_1",
+              "label": "서비스 > 본문 · An intercultural consultant will",
+              "type": "text"
+            },
+            {
+              "name": "b29_2",
+              "label": "서비스 > 본문 · We bring you both at once, becau",
+              "type": "text"
+            },
+            {
+              "name": "b30_1",
+              "label": "서비스 > 본문 · Jonghyuk identifies the Korean c",
+              "type": "text"
+            },
+            {
+              "name": "b30_2",
+              "label": "서비스 > 본문 · Jeanne structures the project, t",
+              "type": "text"
+            },
+            {
+              "name": "b30_3",
+              "label": "서비스 > 본문 · But first and foremost, we",
+              "type": "string"
+            },
+            {
+              "name": "b30_4",
+              "label": "서비스 > 본문 · continue to learn",
+              "type": "string"
+            },
+            {
+              "name": "b30_5",
+              "label": "서비스 > 본문 · . We regularly meet with those w",
+              "type": "text"
+            },
+            {
+              "name": "b31_photo",
+              "label": "서비스 > 사진 32",
+              "type": "image"
+            },
+            {
+              "name": "b31_alt",
+              "label": "서비스 > 사진 설명 32",
+              "type": "text"
+            },
+            {
+              "name": "b32_photo",
+              "label": "서비스 > 사진 33",
+              "type": "image"
+            },
+            {
+              "name": "b32_alt",
+              "label": "서비스 > 사진 설명 33",
+              "type": "text"
+            },
+            {
+              "name": "b33_photo",
+              "label": "서비스 > 사진 34",
+              "type": "image"
+            },
+            {
+              "name": "b33_alt",
+              "label": "서비스 > 사진 설명 34",
+              "type": "string"
+            },
+            {
+              "name": "b34_photo",
+              "label": "서비스 > 사진 35",
+              "type": "image"
+            },
+            {
+              "name": "b34_alt",
+              "label": "서비스 > 사진 설명 35",
+              "type": "text"
+            },
+            {
+              "name": "b35_photo",
+              "label": "서비스 > 사진 36",
+              "type": "image"
+            },
+            {
+              "name": "b35_alt",
+              "label": "서비스 > 사진 설명 36",
+              "type": "string"
+            },
+            {
+              "name": "b36_1",
+              "label": "서비스 > 본문 · The observation that set everyth",
+              "type": "string"
+            },
+            {
+              "name": "b36_2",
+              "label": "서비스 > 본문 · Jonghyuk has always seen this, w",
+              "type": "text"
+            },
+            {
+              "name": "b36_3",
+              "label": "서비스 > 본문 · Jeanne, for her part, learned th",
+              "type": "text"
+            },
+            {
+              "name": "b36_4",
+              "label": "서비스 > 본문 · It was this twofold realization ",
+              "type": "string"
+            },
+            {
+              "name": "b36_5",
+              "label": "서비스 > 본문 · bridge",
+              "type": "string"
+            },
+            {
+              "name": "b36_6",
+              "label": "서비스 > 본문 · ourselves: not to sell a ready-m",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "contact",
+          "label": "문의",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "문의 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "문의 > 본문 · Let's discuss your project toget",
+              "type": "string"
+            },
+            {
+              "name": "b00_2",
+              "label": "문의 > 본문 · A first consultation,",
+              "type": "string"
+            },
+            {
+              "name": "b00_3",
+              "label": "문의 > 본문 · free",
+              "type": "string"
+            },
+            {
+              "name": "b00_4",
+              "label": "문의 > 본문 · and",
+              "type": "string"
+            },
+            {
+              "name": "b00_5",
+              "label": "문의 > 본문 · without obligation",
+              "type": "string"
+            },
+            {
+              "name": "b00_6",
+              "label": "문의 > 본문 · , to understand your project and",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "legal",
+          "label": "법적 고지",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "법적 고지 > 브라우저 제목",
+              "type": "text"
+            },
+            {
+              "name": "b00_1",
+              "label": "법적 고지 > 본문 · Legal notice",
+              "type": "string"
+            },
+            {
+              "name": "b01_1",
+              "label": "법적 고지 > 본문 · Company identity",
+              "type": "string"
+            },
+            {
+              "name": "b02_1",
+              "label": "법적 고지 > 본문 · Jonghyuk Lee - sole proprietorsh",
+              "type": "string"
+            },
+            {
+              "name": "b04_1",
+              "label": "법적 고지 > 본문 · Company address",
+              "type": "string"
+            },
+            {
+              "name": "b05_1",
+              "label": "법적 고지 > 본문 · 182 rue Malbec, 33800 Bordeaux, ",
+              "type": "string"
+            },
+            {
+              "name": "b07_1",
+              "label": "법적 고지 > 본문 · Phone number",
+              "type": "string"
+            },
+            {
+              "name": "b08_1",
+              "label": "법적 고지 > 본문 · +33 7 66 06 88 65",
+              "type": "string"
+            },
+            {
+              "name": "b10_1",
+              "label": "법적 고지 > 본문 · Email address",
+              "type": "string"
+            },
+            {
+              "name": "b11_1",
+              "label": "법적 고지 > 본문 · contact.blablakorea@gmail.com",
+              "type": "string"
+            },
+            {
+              "name": "b13_1",
+              "label": "법적 고지 > 본문 · Owner's name",
+              "type": "string"
+            },
+            {
+              "name": "b14_1",
+              "label": "법적 고지 > 본문 · Jonghyuk LEE",
+              "type": "string"
+            },
+            {
+              "name": "b16_1",
+              "label": "법적 고지 > 본문 · VAT identification number",
+              "type": "string"
+            },
+            {
+              "name": "b17_1",
+              "label": "법적 고지 > 본문 · VAT not applicable, art. 293 B o",
+              "type": "string"
+            },
+            {
+              "name": "b19_1",
+              "label": "법적 고지 > 본문 · SIREN number (RNE)",
+              "type": "string"
+            },
+            {
+              "name": "b20_1",
+              "label": "법적 고지 > 본문 · 107 286 312",
+              "type": "string"
+            },
+            {
+              "name": "b22_1",
+              "label": "법적 고지 > 본문 · Website host identity",
+              "type": "string"
+            },
+            {
+              "name": "b23_1",
+              "label": "법적 고지 > 호스팅 서비스와 운영사",
+              "type": "string"
+            },
+            {
+              "name": "b25_1",
+              "label": "법적 고지 > 본문 · Website host address",
+              "type": "string"
+            },
+            {
+              "name": "b26_1",
+              "label": "법적 고지 > 호스팅 업체 공식 연락처",
+              "type": "string"
+            },
+            {
+              "name": "b28_1",
+              "label": "법적 고지 > 본문 · Intellectual property notice",
+              "type": "string"
+            },
+            {
+              "name": "b29_1",
+              "label": "법적 고지 > 본문 · All content on this site (texts,",
+              "type": "text"
+            },
+            {
+              "name": "b31_1",
+              "label": "법적 고지 > 본문 · Disclaimer",
+              "type": "string"
+            },
+            {
+              "name": "b32_1",
+              "label": "법적 고지 > 본문 · Blabla Korea strives to ensure t",
+              "type": "text"
+            },
+            {
+              "name": "b34_1",
+              "label": "법적 고지 > 본문 · Personal data processing (Genera",
+              "type": "text"
+            },
+            {
+              "name": "b35_1",
+              "label": "법적 고지 > 본문 · Personal data collected via this",
+              "type": "text"
+            },
+            {
+              "name": "b35_2",
+              "label": "법적 고지 > 본문 · privacy",
+              "type": "string"
+            },
+            {
+              "name": "b35_3",
+              "label": "법적 고지 > 본문 · policy.",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "privacy",
+          "label": "개인정보처리방침",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "개인정보처리방침 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "개인정보처리방침 > 본문 · Privacy policy",
+              "type": "string"
+            },
+            {
+              "name": "b00_2",
+              "label": "개인정보처리방침 > 본문 · Last updated: July 2026",
+              "type": "string"
+            },
+            {
+              "name": "b00_3",
+              "label": "개인정보처리방침 > 본문 · About Us",
+              "type": "string"
+            },
+            {
+              "name": "b00_4",
+              "label": "개인정보처리방침 > 본문 · Blabla Korea a France-Korea faci",
+              "type": "text"
+            },
+            {
+              "name": "b00_5",
+              "label": "개인정보처리방침 > 본문 · What data do we collect?",
+              "type": "string"
+            },
+            {
+              "name": "b00_6",
+              "label": "개인정보처리방침 > 본문 · We only collect the data you vol",
+              "type": "text"
+            },
+            {
+              "name": "b00_7",
+              "label": "개인정보처리방침 > 본문 · Why do we use this data?",
+              "type": "string"
+            },
+            {
+              "name": "b00_8",
+              "label": "개인정보처리방침 > 본문 · Your data is used exclusively to",
+              "type": "text"
+            },
+            {
+              "name": "b00_9",
+              "label": "개인정보처리방침 > 본문 · How long do we keep your data?",
+              "type": "string"
+            },
+            {
+              "name": "b00_10",
+              "label": "개인정보처리방침 > 본문 · Your data is kept for the time n",
+              "type": "text"
+            },
+            {
+              "name": "b00_11",
+              "label": "개인정보처리방침 > 본문 · Your rights",
+              "type": "string"
+            },
+            {
+              "name": "b00_12",
+              "label": "개인정보처리방침 > 본문 · In accordance with the General D",
+              "type": "text"
+            },
+            {
+              "name": "b00_13",
+              "label": "개인정보처리방침 > 본문 · Website hosting",
+              "type": "string"
+            },
+            {
+              "name": "b00_14",
+              "label": "개인정보처리방침 > 호스팅 안내",
+              "type": "text"
+            },
+            {
+              "name": "b00_15",
+              "label": "개인정보처리방침 > 호스팅 업체 개인정보 링크 이름",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "home",
+          "label": "홈",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "홈 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "홈 > 첫 화면 제목 · Your bridge between France and K",
+              "type": "string"
+            },
+            {
+              "name": "b01_1",
+              "label": "홈 > 본문 · A sales expert from Daegu and an",
+              "type": "string"
+            },
+            {
+              "name": "b01_2",
+              "label": "홈 > 본문 · Together, we open Korea's doors ",
+              "type": "text"
+            },
+            {
+              "name": "b02_1",
+              "label": "홈 > 본문 · Learn more about our support ser",
+              "type": "string"
+            },
+            {
+              "name": "b03_photo",
+              "label": "홈 > 사진 4",
+              "type": "image"
+            },
+            {
+              "name": "b03_alt",
+              "label": "홈 > 사진 설명 4",
+              "type": "string"
+            },
+            {
+              "name": "b04_1",
+              "label": "홈 > 본문 · Our expertise",
+              "type": "string"
+            },
+            {
+              "name": "b05_1",
+              "label": "홈 > 본문 · We support companies and institu",
+              "type": "text"
+            },
+            {
+              "name": "b06_1",
+              "label": "홈 > 본문 · B2B expertise",
+              "type": "string"
+            },
+            {
+              "name": "b06_2",
+              "label": "홈 > 본문 · France-Korea facilitation",
+              "type": "string"
+            },
+            {
+              "name": "b06_3",
+              "label": "홈 > 본문 · A project with Korea? Let's talk",
+              "type": "string"
+            },
+            {
+              "name": "b06_4",
+              "label": "홈 > 본문 · Scheduling meetings with buyers",
+              "type": "string"
+            },
+            {
+              "name": "b06_5",
+              "label": "홈 > 본문 · Support for exploratory missions",
+              "type": "string"
+            },
+            {
+              "name": "b06_6",
+              "label": "홈 > 본문 · In-Company Workshops: The Korean",
+              "type": "string"
+            },
+            {
+              "name": "b06_7",
+              "label": "홈 > 본문 · We'll be there with you at trade",
+              "type": "string"
+            },
+            {
+              "name": "b07_1",
+              "label": "홈 > 본문 · Discover our B2B offerings",
+              "type": "string"
+            },
+            {
+              "name": "b08_photo",
+              "label": "홈 > 사진 9",
+              "type": "image"
+            },
+            {
+              "name": "b08_alt",
+              "label": "홈 > 사진 설명 9",
+              "type": "string"
+            },
+            {
+              "name": "b09_photo",
+              "label": "홈 > 사진 10",
+              "type": "image"
+            },
+            {
+              "name": "b09_alt",
+              "label": "홈 > 사진 설명 10",
+              "type": "string"
+            },
+            {
+              "name": "b12_photo",
+              "label": "홈 > 사진 13",
+              "type": "image"
+            },
+            {
+              "name": "b12_alt",
+              "label": "홈 > 사진 설명 13",
+              "type": "string"
+            },
+            {
+              "name": "b15_1",
+              "label": "홈 > 본문 · Follow our adventures",
+              "type": "string"
+            },
+            {
+              "name": "b16_photo",
+              "label": "홈 > 사진 17",
+              "type": "image"
+            },
+            {
+              "name": "b16_alt",
+              "label": "홈 > 사진 설명 17",
+              "type": "string"
+            },
+            {
+              "name": "b17_photo",
+              "label": "홈 > 사진 18",
+              "type": "image"
+            },
+            {
+              "name": "b17_alt",
+              "label": "홈 > 사진 설명 18",
+              "type": "string"
+            },
+            {
+              "name": "b18_photo",
+              "label": "홈 > 사진 19",
+              "type": "image"
+            },
+            {
+              "name": "b18_alt",
+              "label": "홈 > 사진 설명 19",
+              "type": "string"
+            },
+            {
+              "name": "b19_photo",
+              "label": "홈 > 사진 20",
+              "type": "image"
+            },
+            {
+              "name": "b19_alt",
+              "label": "홈 > 사진 설명 20",
+              "type": "string"
+            },
+            {
+              "name": "b20_1",
+              "label": "홈 > 본문 · Learn about us",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "common",
+          "label": "공통",
+          "type": "object",
+          "fields": [
+            {
+              "name": "brand",
+              "label": "공통 > 브랜드 이름",
+              "type": "string"
+            },
+            {
+              "name": "about",
+              "label": "공통 > 소개 메뉴",
+              "type": "string"
+            },
+            {
+              "name": "service",
+              "label": "공통 > 서비스 메뉴",
+              "type": "string"
+            },
+            {
+              "name": "blog",
+              "label": "공통 > 글 목록 메뉴",
+              "type": "string"
+            },
+            {
+              "name": "contact",
+              "label": "공통 > 문의 메뉴",
+              "type": "string"
+            },
+            {
+              "name": "fr",
+              "label": "공통 > 불어 전환",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "공통 > 영어 전환",
+              "type": "string"
+            },
+            {
+              "name": "ko",
+              "label": "공통 > 한국어 전환",
+              "type": "string"
+            },
+            {
+              "name": "legal",
+              "label": "공통 > 법적 고지 링크",
+              "type": "string"
+            },
+            {
+              "name": "privacy",
+              "label": "공통 > 개인정보 링크",
+              "type": "string"
+            },
+            {
+              "name": "email",
+              "label": "공통 > 문의 메일 주소",
+              "type": "string"
+            },
+            {
+              "name": "linkedin",
+              "label": "공통 > 링크드인",
+              "type": "string"
+            },
+            {
+              "name": "name",
+              "label": "공통 > 양식 이름",
+              "type": "string"
+            },
+            {
+              "name": "company",
+              "label": "공통 > 양식 회사",
+              "type": "string"
+            },
+            {
+              "name": "email_label",
+              "label": "공통 > 양식 이메일",
+              "type": "string"
+            },
+            {
+              "name": "message",
+              "label": "공통 > 양식 메시지",
+              "type": "string"
+            },
+            {
+              "name": "send",
+              "label": "공통 > 양식 전송 버튼",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "articles_en",
+      "label": "영어 · 글 모음",
+      "type": "collection",
+      "path": "_articles_en",
+      "filename": "{year}-{month}-{day}-{primary}.md",
+      "fields": [
+        {
+          "name": "title",
+          "label": "글 제목",
+          "type": "string",
+          "required": true
+        },
+        {
+          "name": "date",
+          "label": "게시일",
+          "type": "date",
+          "required": true
+        },
+        {
+          "name": "body",
+          "label": "본문",
+          "type": "rich-text"
+        }
+      ]
+    },
+    {
+      "name": "copy_ko",
+      "label": "한국어 · 전체 문구와 사진",
+      "type": "file",
+      "path": "_data/ko.yml",
+      "fields": [
+        {
+          "name": "service",
+          "label": "서비스",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "서비스 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "서비스 > 본문 · Quand deux mondes professionnels",
+              "type": "string"
+            },
+            {
+              "name": "b01_1",
+              "label": "서비스 > 본문 · La France et la Corée du Sud ent",
+              "type": "text"
+            },
+            {
+              "name": "b02_photo",
+              "label": "서비스 > 사진 3",
+              "type": "image"
+            },
+            {
+              "name": "b02_alt",
+              "label": "서비스 > 사진 설명 3",
+              "type": "text"
+            },
+            {
+              "name": "b03_photo",
+              "label": "서비스 > 사진 4",
+              "type": "image"
+            },
+            {
+              "name": "b03_alt",
+              "label": "서비스 > 사진 설명 4",
+              "type": "text"
+            },
+            {
+              "name": "b04_photo",
+              "label": "서비스 > 사진 5",
+              "type": "image"
+            },
+            {
+              "name": "b04_alt",
+              "label": "서비스 > 사진 설명 5",
+              "type": "text"
+            },
+            {
+              "name": "b05_1",
+              "label": "서비스 > 본문 · Comment ça se passe ?",
+              "type": "string"
+            },
+            {
+              "name": "b06_1",
+              "label": "서비스 > 본문 · Un pont tient parce qu'il a deux",
+              "type": "string"
+            },
+            {
+              "name": "b06_2",
+              "label": "서비스 > 본문 · C'est la combinaison de",
+              "type": "string"
+            },
+            {
+              "name": "b06_3",
+              "label": "서비스 > 본문 · nos deux regards",
+              "type": "string"
+            },
+            {
+              "name": "b06_4",
+              "label": "서비스 > 본문 · qui nous permet de vous faire tr",
+              "type": "string"
+            },
+            {
+              "name": "b07_1",
+              "label": "서비스 > 본문 · 01",
+              "type": "string"
+            },
+            {
+              "name": "b07_2",
+              "label": "서비스 > 본문 · Échanger",
+              "type": "string"
+            },
+            {
+              "name": "b07_3",
+              "label": "서비스 > 본문 · Un appel de 30 minutes, offert.",
+              "type": "string"
+            },
+            {
+              "name": "b07_4",
+              "label": "서비스 > 본문 · Vous nous racontez votre projet,",
+              "type": "string"
+            },
+            {
+              "name": "b08_1",
+              "label": "서비스 > 본문 · 02",
+              "type": "string"
+            },
+            {
+              "name": "b08_2",
+              "label": "서비스 > 본문 · Une proposition sur mesure",
+              "type": "string"
+            },
+            {
+              "name": "b08_3",
+              "label": "서비스 > 본문 · Vous recevez une proposition écr",
+              "type": "text"
+            },
+            {
+              "name": "b09_1",
+              "label": "서비스 > 본문 · 03",
+              "type": "string"
+            },
+            {
+              "name": "b09_2",
+              "label": "서비스 > 본문 · Préparer et accompagner",
+              "type": "string"
+            },
+            {
+              "name": "b09_3",
+              "label": "서비스 > 본문 · Nous formons vos équipes aux cod",
+              "type": "text"
+            },
+            {
+              "name": "b10_1",
+              "label": "서비스 > 본문 · 04",
+              "type": "string"
+            },
+            {
+              "name": "b10_2",
+              "label": "서비스 > 본문 · Un suivi après la rencontre",
+              "type": "string"
+            },
+            {
+              "name": "b10_3",
+              "label": "서비스 > 본문 · Relances, comptes rendus, procha",
+              "type": "text"
+            },
+            {
+              "name": "b11_1",
+              "label": "서비스 > 본문 · Contactez nous",
+              "type": "string"
+            },
+            {
+              "name": "b12_1",
+              "label": "서비스 > 본문 · Ils nous ont fait confiance",
+              "type": "string"
+            },
+            {
+              "name": "b13_1",
+              "label": "서비스 > 본문 · Depuis deux ans, nous accompagno",
+              "type": "text"
+            },
+            {
+              "name": "b14_photo",
+              "label": "서비스 > 사진 15",
+              "type": "image"
+            },
+            {
+              "name": "b14_alt",
+              "label": "서비스 > 사진 설명 15",
+              "type": "text"
+            },
+            {
+              "name": "b15_photo",
+              "label": "서비스 > 사진 16",
+              "type": "image"
+            },
+            {
+              "name": "b15_alt",
+              "label": "서비스 > 사진 설명 16",
+              "type": "text"
+            },
+            {
+              "name": "b16_1",
+              "label": "서비스 > 본문 · Marque coréenne de lunetterie - ",
+              "type": "string"
+            },
+            {
+              "name": "b16_2",
+              "label": "서비스 > 본문 · Présence aux côtés d'une marque ",
+              "type": "text"
+            },
+            {
+              "name": "b17_photo",
+              "label": "서비스 > 사진 18",
+              "type": "image"
+            },
+            {
+              "name": "b17_alt",
+              "label": "서비스 > 사진 설명 18",
+              "type": "string"
+            },
+            {
+              "name": "b18_1",
+              "label": "서비스 > 본문 · Délégation institutionnelle - Ré",
+              "type": "string"
+            },
+            {
+              "name": "b18_2",
+              "label": "서비스 > 본문 · Organisation complète d'une visi",
+              "type": "text"
+            },
+            {
+              "name": "b19_photo",
+              "label": "서비스 > 사진 20",
+              "type": "image"
+            },
+            {
+              "name": "b19_alt",
+              "label": "서비스 > 사진 설명 20",
+              "type": "text"
+            },
+            {
+              "name": "b20_photo",
+              "label": "서비스 > 사진 21",
+              "type": "image"
+            },
+            {
+              "name": "b20_alt",
+              "label": "서비스 > 사진 설명 21",
+              "type": "string"
+            },
+            {
+              "name": "b21_photo",
+              "label": "서비스 > 사진 22",
+              "type": "image"
+            },
+            {
+              "name": "b21_alt",
+              "label": "서비스 > 사진 설명 22",
+              "type": "text"
+            },
+            {
+              "name": "b22_1",
+              "label": "서비스 > 본문 · Entreprises agroalimentaires cor",
+              "type": "string"
+            },
+            {
+              "name": "b22_2",
+              "label": "서비스 > 본문 · Interprétariat pendant les cinq ",
+              "type": "text"
+            },
+            {
+              "name": "b23_1",
+              "label": "서비스 > 본문 · Suivre nos actualités sur Linked",
+              "type": "string"
+            },
+            {
+              "name": "b24_1",
+              "label": "서비스 > 본문 · La préparation de votre projet",
+              "type": "string"
+            },
+            {
+              "name": "b25_1",
+              "label": "서비스 > 본문 · Tout projet commence par un prem",
+              "type": "text"
+            },
+            {
+              "name": "b25_2",
+              "label": "서비스 > 본문 · Quel est mon projet, et qu'est-c",
+              "type": "string"
+            },
+            {
+              "name": "b25_3",
+              "label": "서비스 > 본문 · Quels sont mes délais et sont-il",
+              "type": "string"
+            },
+            {
+              "name": "b25_4",
+              "label": "서비스 > 본문 · Qui sont les bons interlocuteurs",
+              "type": "string"
+            },
+            {
+              "name": "b25_5",
+              "label": "서비스 > 본문 · Mon équipe est-elle prête cultur",
+              "type": "string"
+            },
+            {
+              "name": "b25_6",
+              "label": "서비스 > 본문 · C'est l'étape la plus importante",
+              "type": "text"
+            },
+            {
+              "name": "b26_1",
+              "label": "서비스 > 본문 · Contactez-nous pour discuter de ",
+              "type": "string"
+            },
+            {
+              "name": "b26_2",
+              "label": "서비스 > 본문 · Vous pouvez remplir le formulair",
+              "type": "string"
+            },
+            {
+              "name": "b26_3",
+              "label": "서비스 > 본문 · contact@blablakorea.com",
+              "type": "string"
+            },
+            {
+              "name": "b26_4",
+              "label": "서비스 > 본문 · (1er échange offert)",
+              "type": "string"
+            },
+            {
+              "name": "b28_1",
+              "label": "서비스 > 본문 · Pourquoi notre duo fait la diffé",
+              "type": "string"
+            },
+            {
+              "name": "b29_1",
+              "label": "서비스 > 본문 · Un consultant interculturel vous",
+              "type": "text"
+            },
+            {
+              "name": "b29_2",
+              "label": "서비스 > 본문 · Nous, on vous parle des deux en ",
+              "type": "text"
+            },
+            {
+              "name": "b30_1",
+              "label": "서비스 > 본문 · Jonghyuk identifie les interlocu",
+              "type": "text"
+            },
+            {
+              "name": "b30_2",
+              "label": "서비스 > 본문 · Jeanne structure le projet, trad",
+              "type": "text"
+            },
+            {
+              "name": "b30_3",
+              "label": "서비스 > 본문 · Mais avant tout, nous",
+              "type": "string"
+            },
+            {
+              "name": "b30_4",
+              "label": "서비스 > 본문 · continuons d’apprendre",
+              "type": "string"
+            },
+            {
+              "name": "b30_5",
+              "label": "서비스 > 본문 · . Nous allons régulièrement à la",
+              "type": "text"
+            },
+            {
+              "name": "b31_photo",
+              "label": "서비스 > 사진 32",
+              "type": "image"
+            },
+            {
+              "name": "b31_alt",
+              "label": "서비스 > 사진 설명 32",
+              "type": "text"
+            },
+            {
+              "name": "b32_photo",
+              "label": "서비스 > 사진 33",
+              "type": "image"
+            },
+            {
+              "name": "b32_alt",
+              "label": "서비스 > 사진 설명 33",
+              "type": "text"
+            },
+            {
+              "name": "b33_photo",
+              "label": "서비스 > 사진 34",
+              "type": "image"
+            },
+            {
+              "name": "b33_alt",
+              "label": "서비스 > 사진 설명 34",
+              "type": "string"
+            },
+            {
+              "name": "b34_photo",
+              "label": "서비스 > 사진 35",
+              "type": "image"
+            },
+            {
+              "name": "b34_alt",
+              "label": "서비스 > 사진 설명 35",
+              "type": "text"
+            },
+            {
+              "name": "b35_photo",
+              "label": "서비스 > 사진 36",
+              "type": "image"
+            },
+            {
+              "name": "b35_alt",
+              "label": "서비스 > 사진 설명 36",
+              "type": "string"
+            },
+            {
+              "name": "b36_1",
+              "label": "서비스 > 본문 · Le constat qui a tout déclenché",
+              "type": "string"
+            },
+            {
+              "name": "b36_2",
+              "label": "서비스 > 본문 · Jonghyuk le voit depuis toujours",
+              "type": "text"
+            },
+            {
+              "name": "b36_3",
+              "label": "서비스 > 본문 · Jeanne, elle, l’a appris à ses d",
+              "type": "text"
+            },
+            {
+              "name": "b36_4",
+              "label": "서비스 > 본문 · C’est ce double constat qui nous",
+              "type": "string"
+            },
+            {
+              "name": "b36_5",
+              "label": "서비스 > 본문 · pont",
+              "type": "string"
+            },
+            {
+              "name": "b36_6",
+              "label": "서비스 > 본문 · nous-mêmes : pas pour vendre une",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "name": "contact",
+          "label": "문의",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "문의 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "문의 > 본문 · Échangeons ensemble sur votre pr",
+              "type": "string"
+            },
+            {
+              "name": "b00_2",
+              "label": "문의 > 본문 · Un premier échange,",
+              "type": "string"
+            },
+            {
+              "name": "b00_3",
+              "label": "문의 > 본문 · offert",
+              "type": "string"
+            },
+            {
+              "name": "b00_4",
+              "label": "문의 > 본문 · et",
+              "type": "string"
+            },
+            {
+              "name": "b00_5",
+              "label": "문의 > 본문 · sans engagement",
+              "type": "string"
+            },
+            {
+              "name": "b00_6",
+              "label": "문의 > 본문 · , pour comprendre votre projet e",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "legal",
+          "label": "법적 고지",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "법적 고지 > 브라우저 제목",
+              "type": "text"
+            },
+            {
+              "name": "b00_1",
+              "label": "법적 고지 > 본문 · Mentions légales",
+              "type": "string"
+            },
+            {
+              "name": "b01_1",
+              "label": "법적 고지 > 본문 · Identité de l’entreprise",
+              "type": "string"
+            },
+            {
+              "name": "b02_1",
+              "label": "법적 고지 > 본문 · Jonghyuk Lee -  entrepreneur ind",
+              "type": "string"
+            },
+            {
+              "name": "b04_1",
+              "label": "법적 고지 > 본문 · Adresse de l’entreprise",
+              "type": "string"
+            },
+            {
+              "name": "b05_1",
+              "label": "법적 고지 > 본문 · 182 rue Malbec, 33800 Bordeaux, ",
+              "type": "string"
+            },
+            {
+              "name": "b07_1",
+              "label": "법적 고지 > 본문 · Numéro de téléphone",
+              "type": "string"
+            },
+            {
+              "name": "b08_1",
+              "label": "법적 고지 > 본문 · +33 7 66 06 88 65",
+              "type": "string"
+            },
+            {
+              "name": "b10_1",
+              "label": "법적 고지 > 본문 · Adresse e-mail",
+              "type": "string"
+            },
+            {
+              "name": "b11_1",
+              "label": "법적 고지 > 본문 · contact.blablakorea@gmail.com",
+              "type": "string"
+            },
+            {
+              "name": "b13_1",
+              "label": "법적 고지 > 본문 · Nom du propriétaire",
+              "type": "string"
+            },
+            {
+              "name": "b14_1",
+              "label": "법적 고지 > 본문 · Jonghyuk LEE",
+              "type": "string"
+            },
+            {
+              "name": "b16_1",
+              "label": "법적 고지 > 본문 · Numéro d’identification TVA",
+              "type": "string"
+            },
+            {
+              "name": "b17_1",
+              "label": "법적 고지 > 본문 · TVA non applicable, art. 293 B d",
+              "type": "string"
+            },
+            {
+              "name": "b19_1",
+              "label": "법적 고지 > 본문 · Numéro SIREN (RNE)",
+              "type": "string"
+            },
+            {
+              "name": "b20_1",
+              "label": "법적 고지 > 본문 · 107 286 312",
+              "type": "string"
+            },
+            {
+              "name": "b22_1",
+              "label": "법적 고지 > 본문 · Identité de l’hébergeur du site",
+              "type": "string"
+            },
+            {
+              "name": "b23_1",
+              "label": "법적 고지 > 호스팅 서비스와 운영사",
+              "type": "string"
+            },
+            {
+              "name": "b25_1",
+              "label": "법적 고지 > 본문 · Adresse de l’hébergeur du site",
+              "type": "string"
+            },
+            {
+              "name": "b26_1",
+              "label": "법적 고지 > 호스팅 업체 공식 연락처",
+              "type": "string"
+            },
+            {
+              "name": "b28_1",
+              "label": "법적 고지 > 본문 · Mention relative à la propriété ",
+              "type": "string"
+            },
+            {
+              "name": "b29_1",
+              "label": "법적 고지 > 본문 · L'ensemble des contenus de ce si",
+              "type": "text"
+            },
+            {
+              "name": "b31_1",
+              "label": "법적 고지 > 본문 · Clause de non-responsabilité",
+              "type": "string"
+            },
+            {
+              "name": "b32_1",
+              "label": "법적 고지 > 본문 · Blabla Korea s'efforce d'assurer",
+              "type": "text"
+            },
+            {
+              "name": "b34_1",
+              "label": "법적 고지 > 본문 · Traitement des données personnel",
+              "type": "text"
+            },
+            {
+              "name": "b35_1",
+              "label": "법적 고지 > 본문 · Les données personnelles collect",
+              "type": "text"
+            },
+            {
+              "name": "b35_2",
+              "label": "법적 고지 > 본문 · confidentialité",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "privacy",
+          "label": "개인정보처리방침",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "개인정보처리방침 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "개인정보처리방침 > 본문 · Politique de confidentialité",
+              "type": "string"
+            },
+            {
+              "name": "b00_2",
+              "label": "개인정보처리방침 > 본문 · Dernière mise à jour : juillet 2",
+              "type": "string"
+            },
+            {
+              "name": "b00_3",
+              "label": "개인정보처리방침 > 본문 · Qui sommes-nous ?",
+              "type": "string"
+            },
+            {
+              "name": "b00_4",
+              "label": "개인정보처리방침 > 본문 · Blabla Korea est un service de f",
+              "type": "text"
+            },
+            {
+              "name": "b00_5",
+              "label": "개인정보처리방침 > 본문 · Quelles données collectons-nous ",
+              "type": "string"
+            },
+            {
+              "name": "b00_6",
+              "label": "개인정보처리방침 > 본문 · Nous collectons uniquement les d",
+              "type": "text"
+            },
+            {
+              "name": "b00_7",
+              "label": "개인정보처리방침 > 본문 · Pourquoi utilisons-nous ces donn",
+              "type": "string"
+            },
+            {
+              "name": "b00_8",
+              "label": "개인정보처리방침 > 본문 · Vos données sont utilisées exclu",
+              "type": "text"
+            },
+            {
+              "name": "b00_9",
+              "label": "개인정보처리방침 > 본문 · Combien de temps conservons-nous",
+              "type": "string"
+            },
+            {
+              "name": "b00_10",
+              "label": "개인정보처리방침 > 본문 · Vos données sont conservées le t",
+              "type": "text"
+            },
+            {
+              "name": "b00_11",
+              "label": "개인정보처리방침 > 본문 · Vos droits",
+              "type": "string"
+            },
+            {
+              "name": "b00_12",
+              "label": "개인정보처리방침 > 본문 · Conformément au Règlement Généra",
+              "type": "text"
+            },
+            {
+              "name": "b00_13",
+              "label": "개인정보처리방침 > 본문 · Hébergement du site",
+              "type": "string"
+            },
+            {
+              "name": "b00_14",
+              "label": "개인정보처리방침 > 호스팅 안내",
+              "type": "text"
+            },
+            {
+              "name": "b00_15",
+              "label": "개인정보처리방침 > 호스팅 업체 개인정보 링크 이름",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "about",
+          "label": "소개",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "소개 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "소개 > 본문 · Votre porte d'entrée vers la Cor",
+              "type": "string"
+            },
+            {
+              "name": "b01_1",
+              "label": "소개 > 본문 · Un duo franco-coréen",
+              "type": "string"
+            },
+            {
+              "name": "b01_2",
+              "label": "소개 > 본문 · Blabla Korea, c’est",
+              "type": "string"
+            },
+            {
+              "name": "b01_3",
+              "label": "소개 > 본문 · l’association de deux regards",
+              "type": "string"
+            },
+            {
+              "name": "b01_4",
+              "label": "소개 > 본문 · sur les relations professionnell",
+              "type": "string"
+            },
+            {
+              "name": "b01_5",
+              "label": "소개 > 본문 · Jonghyuk",
+              "type": "string"
+            },
+            {
+              "name": "b01_6",
+              "label": "소개 > 본문 · , originaire de Daegu, connaît d",
+              "type": "text"
+            },
+            {
+              "name": "b01_7",
+              "label": "소개 > 본문 · Jeanne",
+              "type": "string"
+            },
+            {
+              "name": "b01_8",
+              "label": "소개 > 본문 · a cinq ans d’expérience en commu",
+              "type": "text"
+            },
+            {
+              "name": "b01_9",
+              "label": "소개 > 본문 · Ensemble, nous agissons comme vo",
+              "type": "string"
+            },
+            {
+              "name": "b01_10",
+              "label": "소개 > 본문 · pont entre la France et la Corée",
+              "type": "string"
+            },
+            {
+              "name": "b01_11",
+              "label": "소개 > 본문 · : que vous soyez une entreprise ",
+              "type": "text"
+            },
+            {
+              "name": "b02_photo",
+              "label": "소개 > 사진 3",
+              "type": "image"
+            },
+            {
+              "name": "b02_alt",
+              "label": "소개 > 사진 설명 3",
+              "type": "text"
+            },
+            {
+              "name": "b03_photo",
+              "label": "소개 > 사진 4",
+              "type": "image"
+            },
+            {
+              "name": "b03_alt",
+              "label": "소개 > 사진 설명 4",
+              "type": "string"
+            },
+            {
+              "name": "b04_1",
+              "label": "소개 > 본문 · Qui sommes-nous ?",
+              "type": "string"
+            },
+            {
+              "name": "b05_photo",
+              "label": "소개 > 사진 6",
+              "type": "image"
+            },
+            {
+              "name": "b05_alt",
+              "label": "소개 > 사진 설명 6",
+              "type": "text"
+            },
+            {
+              "name": "b07_1",
+              "label": "소개 > 본문 · Jeanne Lethielleux",
+              "type": "string"
+            },
+            {
+              "name": "b08_1",
+              "label": "소개 > 본문 · Fondatrice - Experte en gestion ",
+              "type": "string"
+            },
+            {
+              "name": "b08_2",
+              "label": "소개 > 본문 · Je suis celle qui garde le cap. ",
+              "type": "text"
+            },
+            {
+              "name": "b08_3",
+              "label": "소개 > 본문 · Chez Blabla Korea, je suis celle",
+              "type": "text"
+            },
+            {
+              "name": "b10_photo",
+              "label": "소개 > 사진 11",
+              "type": "image"
+            },
+            {
+              "name": "b10_alt",
+              "label": "소개 > 사진 설명 11",
+              "type": "text"
+            },
+            {
+              "name": "b11_1",
+              "label": "소개 > 본문 · Fondateur - Expert Corée et busi",
+              "type": "string"
+            },
+            {
+              "name": "b11_2",
+              "label": "소개 > 본문 · Je suis celui qui va vers l'autr",
+              "type": "string"
+            },
+            {
+              "name": "b11_3",
+              "label": "소개 > 본문 · Chez Blabla Korea, je suis celui",
+              "type": "text"
+            },
+            {
+              "name": "b12_1",
+              "label": "소개 > 본문 · Jonghyuk Lee",
+              "type": "string"
+            },
+            {
+              "name": "b13_photo",
+              "label": "소개 > 사진 14",
+              "type": "image"
+            },
+            {
+              "name": "b13_alt",
+              "label": "소개 > 사진 설명 14",
+              "type": "text"
+            },
+            {
+              "name": "b14_photo",
+              "label": "소개 > 사진 15",
+              "type": "image"
+            },
+            {
+              "name": "b14_alt",
+              "label": "소개 > 사진 설명 15",
+              "type": "text"
+            },
+            {
+              "name": "b15_1",
+              "label": "소개 > 본문 · Les personnes sans qui ce projet",
+              "type": "string"
+            },
+            {
+              "name": "b16_1",
+              "label": "소개 > 본문 · Photographe",
+              "type": "string"
+            },
+            {
+              "name": "b16_2",
+              "label": "소개 > 본문 · Parce que ce projet se voulait à",
+              "type": "text"
+            },
+            {
+              "name": "b17_1",
+              "label": "소개 > 본문 · Léo Lethielleux",
+              "type": "string"
+            },
+            {
+              "name": "b18_1",
+              "label": "소개 > 본문 · Voir son portfolio",
+              "type": "string"
+            },
+            {
+              "name": "b19_photo",
+              "label": "소개 > 사진 20",
+              "type": "image"
+            },
+            {
+              "name": "b19_alt",
+              "label": "소개 > 사진 설명 20",
+              "type": "text"
+            },
+            {
+              "name": "b20_photo",
+              "label": "소개 > 사진 21",
+              "type": "image"
+            },
+            {
+              "name": "b20_alt",
+              "label": "소개 > 사진 설명 21",
+              "type": "text"
+            },
+            {
+              "name": "b21_1",
+              "label": "소개 > 본문 · Ambassadrice K-beauty et mode",
+              "type": "string"
+            },
+            {
+              "name": "b21_2",
+              "label": "소개 > 본문 · Parce que ce projet gagne à être",
+              "type": "text"
+            },
+            {
+              "name": "b21_3",
+              "label": "소개 > 본문 · The Perfume Avenue",
+              "type": "string"
+            },
+            {
+              "name": "b21_4",
+              "label": "소개 > 본문 · , Hyanggi est notre reporter sur",
+              "type": "text"
+            },
+            {
+              "name": "b21_5",
+              "label": "소개 > 본문 · Multiple médaillée d'or en conco",
+              "type": "text"
+            },
+            {
+              "name": "b22_1",
+              "label": "소개 > 본문 · Hyanggi Lee",
+              "type": "string"
+            },
+            {
+              "name": "b23_1",
+              "label": "소개 > 본문 · À propos de notre projet",
+              "type": "string"
+            },
+            {
+              "name": "b24_1",
+              "label": "소개 > 본문 · Nous avons chacun vécu dans le p",
+              "type": "text"
+            },
+            {
+              "name": "b24_2",
+              "label": "소개 > 본문 · C'est de cette expérience commun",
+              "type": "text"
+            },
+            {
+              "name": "b24_3",
+              "label": "소개 > 본문 · Notre force ? Une connaissance i",
+              "type": "string"
+            },
+            {
+              "name": "b24_4",
+              "label": "소개 > 본문 · complémentarité",
+              "type": "string"
+            },
+            {
+              "name": "b24_5",
+              "label": "소개 > 본문 · qui nous permet de couvrir ensem",
+              "type": "string"
+            },
+            {
+              "name": "b24_6",
+              "label": "소개 > 본문 · Notre mot d'ordre, c'est l'",
+              "type": "string"
+            },
+            {
+              "name": "b24_7",
+              "label": "소개 > 본문 · échange",
+              "type": "string"
+            },
+            {
+              "name": "b24_8",
+              "label": "소개 > 본문 · . Avant toute chose, nous prenon",
+              "type": "text"
+            },
+            {
+              "name": "b24_9",
+              "label": "소개 > 본문 · conversation",
+              "type": "string"
+            },
+            {
+              "name": "b24_10",
+              "label": "소개 > 본문 · et que chaque projet mérite une",
+              "type": "string"
+            },
+            {
+              "name": "b24_11",
+              "label": "소개 > 본문 · réponse sur mesure.",
+              "type": "string"
+            },
+            {
+              "name": "b25_photo",
+              "label": "소개 > 사진 26",
+              "type": "image"
+            },
+            {
+              "name": "b25_alt",
+              "label": "소개 > 사진 설명 26",
+              "type": "string"
+            },
+            {
+              "name": "b26_1",
+              "label": "소개 > 본문 · Nous vous accompagnons pour réal",
+              "type": "string"
+            },
+            {
+              "name": "b27_1",
+              "label": "소개 > 본문 · Notre expertise",
+              "type": "string"
+            },
+            {
+              "name": "b28_1",
+              "label": "소개 > 본문 · Expertise B2B",
+              "type": "string"
+            },
+            {
+              "name": "b28_2",
+              "label": "소개 > 본문 · Facilitation France-Corée",
+              "type": "string"
+            },
+            {
+              "name": "b28_3",
+              "label": "소개 > 본문 · Un projet avec la Corée ? Parlon",
+              "type": "string"
+            },
+            {
+              "name": "b29_1",
+              "label": "소개 > 본문 · Découvrez l'offre B2B",
+              "type": "string"
+            },
+            {
+              "name": "b32_1",
+              "label": "소개 > 본문 · Échangeons ensemble sur votre pr",
+              "type": "string"
+            },
+            {
+              "name": "b32_2",
+              "label": "소개 > 본문 · Un premier échange,",
+              "type": "string"
+            },
+            {
+              "name": "b32_3",
+              "label": "소개 > 본문 · offert",
+              "type": "string"
+            },
+            {
+              "name": "b32_4",
+              "label": "소개 > 본문 · et",
+              "type": "string"
+            },
+            {
+              "name": "b32_5",
+              "label": "소개 > 본문 · sans engagement",
+              "type": "string"
+            },
+            {
+              "name": "b32_6",
+              "label": "소개 > 본문 · , pour comprendre votre projet e",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "home",
+          "label": "홈",
+          "type": "object",
+          "fields": [
+            {
+              "name": "title",
+              "label": "홈 > 브라우저 제목",
+              "type": "string"
+            },
+            {
+              "name": "b00_1",
+              "label": "홈 > 첫 화면 제목 · Votre pont entre la France et la",
+              "type": "string"
+            },
+            {
+              "name": "b01_1",
+              "label": "홈 > 본문 · Un expert commercial natif de Da",
+              "type": "string"
+            },
+            {
+              "name": "b01_2",
+              "label": "홈 > 본문 · Ensemble, nous vous ouvrons les ",
+              "type": "text"
+            },
+            {
+              "name": "b02_1",
+              "label": "홈 > 본문 · Découvrez notre accompagnement",
+              "type": "string"
+            },
+            {
+              "name": "b03_photo",
+              "label": "홈 > 사진 4",
+              "type": "image"
+            },
+            {
+              "name": "b03_alt",
+              "label": "홈 > 사진 설명 4",
+              "type": "string"
+            },
+            {
+              "name": "b04_1",
+              "label": "홈 > 본문 · Notre expertise",
+              "type": "string"
+            },
+            {
+              "name": "b05_1",
+              "label": "홈 > 본문 · Nous accompagnons les entreprise",
+              "type": "text"
+            },
+            {
+              "name": "b06_1",
+              "label": "홈 > 본문 · Expertise B2B",
+              "type": "string"
+            },
+            {
+              "name": "b06_2",
+              "label": "홈 > 본문 · Facilitation France-Corée",
+              "type": "string"
+            },
+            {
+              "name": "b06_3",
+              "label": "홈 > 본문 · Un projet avec la Corée ? Parlon",
+              "type": "string"
+            },
+            {
+              "name": "b06_4",
+              "label": "홈 > 본문 · Organisation de rendez-vous ache",
+              "type": "string"
+            },
+            {
+              "name": "b06_5",
+              "label": "홈 > 본문 · Accompagnement de missions explo",
+              "type": "string"
+            },
+            {
+              "name": "b06_6",
+              "label": "홈 > 본문 · Ateliers en entreprise : marché ",
+              "type": "string"
+            },
+            {
+              "name": "b06_7",
+              "label": "홈 > 본문 · Présence à vos côtés sur salons ",
+              "type": "string"
+            },
+            {
+              "name": "b07_1",
+              "label": "홈 > 본문 · Découvrez l'offre B2B",
+              "type": "string"
+            },
+            {
+              "name": "b08_photo",
+              "label": "홈 > 사진 9",
+              "type": "image"
+            },
+            {
+              "name": "b08_alt",
+              "label": "홈 > 사진 설명 9",
+              "type": "string"
+            },
+            {
+              "name": "b09_photo",
+              "label": "홈 > 사진 10",
+              "type": "image"
+            },
+            {
+              "name": "b09_alt",
+              "label": "홈 > 사진 설명 10",
+              "type": "string"
+            },
+            {
+              "name": "b12_photo",
+              "label": "홈 > 사진 13",
+              "type": "image"
+            },
+            {
+              "name": "b12_alt",
+              "label": "홈 > 사진 설명 13",
+              "type": "string"
+            },
+            {
+              "name": "b15_1",
+              "label": "홈 > 본문 · Suivez nos aventures",
+              "type": "string"
+            },
+            {
+              "name": "b16_photo",
+              "label": "홈 > 사진 17",
+              "type": "image"
+            },
+            {
+              "name": "b16_alt",
+              "label": "홈 > 사진 설명 17",
+              "type": "string"
+            },
+            {
+              "name": "b17_photo",
+              "label": "홈 > 사진 18",
+              "type": "image"
+            },
+            {
+              "name": "b17_alt",
+              "label": "홈 > 사진 설명 18",
+              "type": "string"
+            },
+            {
+              "name": "b18_photo",
+              "label": "홈 > 사진 19",
+              "type": "image"
+            },
+            {
+              "name": "b18_alt",
+              "label": "홈 > 사진 설명 19",
+              "type": "string"
+            },
+            {
+              "name": "b19_photo",
+              "label": "홈 > 사진 20",
+              "type": "image"
+            },
+            {
+              "name": "b19_alt",
+              "label": "홈 > 사진 설명 20",
+              "type": "string"
+            },
+            {
+              "name": "b20_1",
+              "label": "홈 > 본문 · Découvrez notre projet",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "name": "common",
+          "label": "공통",
+          "type": "object",
+          "fields": [
+            {
+              "name": "brand",
+              "label": "공통 > 브랜드 이름",
+              "type": "string"
+            },
+            {
+              "name": "about",
+              "label": "공통 > 소개 메뉴",
+              "type": "string"
+            },
+            {
+              "name": "service",
+              "label": "공통 > 서비스 메뉴",
+              "type": "string"
+            },
+            {
+              "name": "blog",
+              "label": "공통 > 글 목록 메뉴",
+              "type": "string"
+            },
+            {
+              "name": "contact",
+              "label": "공통 > 문의 메뉴",
+              "type": "string"
+            },
+            {
+              "name": "fr",
+              "label": "공통 > 불어 전환",
+              "type": "string"
+            },
+            {
+              "name": "en",
+              "label": "공통 > 영어 전환",
+              "type": "string"
+            },
+            {
+              "name": "ko",
+              "label": "공통 > 한국어 전환",
+              "type": "string"
+            },
+            {
+              "name": "legal",
+              "label": "공통 > 법적 고지 링크",
+              "type": "string"
+            },
+            {
+              "name": "privacy",
+              "label": "공통 > 개인정보 링크",
+              "type": "string"
+            },
+            {
+              "name": "email",
+              "label": "공통 > 문의 메일 주소",
+              "type": "string"
+            },
+            {
+              "name": "linkedin",
+              "label": "공통 > 링크드인",
+              "type": "string"
+            },
+            {
+              "name": "name",
+              "label": "공통 > 양식 이름",
+              "type": "string"
+            },
+            {
+              "name": "company",
+              "label": "공통 > 양식 회사",
+              "type": "string"
+            },
+            {
+              "name": "email_label",
+              "label": "공통 > 양식 이메일",
+              "type": "string"
+            },
+            {
+              "name": "message",
+              "label": "공통 > 양식 메시지",
+              "type": "string"
+            },
+            {
+              "name": "send",
+              "label": "공통 > 양식 전송 버튼",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "articles_ko",
+      "label": "한국어 · 글 모음",
+      "type": "collection",
+      "path": "_articles_ko",
+      "filename": "{year}-{month}-{day}-{primary}.md",
+      "fields": [
+        {
+          "name": "title",
+          "label": "글 제목",
+          "type": "string",
+          "required": true
+        },
+        {
+          "name": "date",
+          "label": "게시일",
+          "type": "date",
+          "required": true
+        },
+        {
+          "name": "body",
+          "label": "본문",
+          "type": "rich-text"
+        }
+      ]
+    }
+  ]
+}

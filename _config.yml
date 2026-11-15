@@ -1,0 +1,54 @@
+{
+  "url": "https://mangocurly.github.io",
+  "baseurl": "/blablakorea-b2b",
+  "form_endpoint": "",
+  "collections": {
+    "articles_fr": {
+      "output": true,
+      "permalink": "/notre-blog/:name/"
+    },
+    "articles_en": {
+      "output": true,
+      "permalink": "/en/notre-blog/:name/"
+    },
+    "articles_ko": {
+      "output": true,
+      "permalink": "/ko/notre-blog/:name/"
+    }
+  },
+  "defaults": [
+    {
+      "scope": {
+        "path": "",
+        "type": "articles_fr"
+      },
+      "values": {
+        "layout": "article",
+        "lang": "fr",
+        "key": "blog"
+      }
+    },
+    {
+      "scope": {
+        "path": "",
+        "type": "articles_en"
+      },
+      "values": {
+        "layout": "article",
+        "lang": "en",
+        "key": "blog"
+      }
+    },
+    {
+      "scope": {
+        "path": "",
+        "type": "articles_ko"
+      },
+      "values": {
+        "layout": "article",
+        "lang": "ko",
+        "key": "blog"
+      }
+    }
+  ]
+}
