@@ -44,4 +44,4 @@ Les importateurs apprécient grandement la venue des producteurs, ainsi que la p
 
 C'est ici que nous intervenons. Chez Blabla Korea, nous aidons les producteurs et négociants qui veulent approcher le marché coréen à identifier les bons interlocuteurs, préparer leur approche et faciliter les premières prises de contact.
 
-Si vous avez un projet d’exportation en orée n’hésitez pas à nous contacter via le [formulaire de contact](</contact>) afin que nous puissions en discuter ensemble et réfléchir à la stratégie la plus adaptée à vptre projet.
+Si vous avez un projet d’exportation en orée n’hésitez pas à nous contacter via le [formulaire de contact]({{ '/contact/' | relative_url }}) afin que nous puissions en discuter ensemble et réfléchir à la stratégie la plus adaptée à vptre projet.

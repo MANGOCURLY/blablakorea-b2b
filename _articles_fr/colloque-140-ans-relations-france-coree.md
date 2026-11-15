@@ -35,4 +35,4 @@ Autre message que nous retenons, porté par Alexandra Dublanche, vice-président
 
 Merci à la FKCCI et à l’ensemble des organisateurs pour cette journée riche, et à tous les intervenants pour la qualité des échanges. Nous repartons avec beaucoup de notes, de nouvelles pistes, et l’envie de continuer à aller à la rencontre de celles et ceux qui font vivre les liens entre la France et la Corée.
 
-Si vous avez un projet avec la Corée et que vous souhaitez n’hésitez pas à [nous contacter](</contact>) !
+Si vous avez un projet avec la Corée et que vous souhaitez n’hésitez pas à [nous contacter]({{ '/contact/' | relative_url }}) !

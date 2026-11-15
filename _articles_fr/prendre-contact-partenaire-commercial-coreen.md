@@ -39,4 +39,4 @@ La culture des affaires coréenne valorise le long terme. On ne signe pas après
 
 <strong>Et si vous avez besoin d'un relais ?</strong>
 
-C'est exactement là qu'intervient <strong>Blabla Korea</strong>. Nous pouvons vous aider à identifier les bons interlocuteurs, préparer votre approche, et servir d'intermédiaire pour que votre première prise de contact soit une réussite. N’hésitez pas à nous contacter via le [formulaire de contact](</contact>) pour programmer un premier appel (gratuit) afin que nous discutions de votre projet.
+C'est exactement là qu'intervient <strong>Blabla Korea</strong>. Nous pouvons vous aider à identifier les bons interlocuteurs, préparer votre approche, et servir d'intermédiaire pour que votre première prise de contact soit une réussite. N’hésitez pas à nous contacter via le [formulaire de contact]({{ '/contact/' | relative_url }}) pour programmer un premier appel (gratuit) afin que nous discutions de votre projet.
