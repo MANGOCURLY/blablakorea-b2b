@@ -1,267 +1,375 @@
 about:
-  title: "About us | Blabla Korea, the French-Korean duo — Blabla Korea"
-  b00_1: "Your gateway to Korea"
-  b01_1: "A French-Korean duo"
+  title: About us | Blabla Korea, the French-Korean duo — Blabla Korea
+  b00_1: Your gateway to Korea
+  b01_1: A French-Korean duo
   b01_2: "Blabla Korea, it is "
-  b01_3: "a combination of two perspectives"
+  b01_3: a combination of two perspectives
   b01_4: " on professional relations between France and South Korea."
-  b01_5: "Jonghyuk"
-  b01_6: ", a native of Daegu, has first-hand knowledge of Korean business practices: who to contact, what tools to use, and what might go wrong when approaching someone."
-  b01_7: "Jeanne"
-  b01_8: " has five years of experience in international communications and promotion, including the organization of trade shows and events. She structures each project and ensures that every step remains clear and achievable."
+  b01_5: Jonghyuk
+  b01_6: ", a native of Daegu, has first-hand knowledge of Korean business
+    practices: who to contact, what tools to use, and what might go wrong when
+    approaching someone."
+  b01_7: Jeanne
+  b01_8: " has five years of experience in international communications and
+    promotion, including the organization of trade shows and events. She
+    structures each project and ensures that every step remains clear and
+    achievable."
   b01_9: "Together, we serve as your "
-  b01_10: "bridge between France and Korea"
-  b01_11: " : whether you’re a French company looking for Korean partners or a Korean company looking to expand into France."
-  b02_photo: "/assets/images/52a6b6a56b7037.jpg"
-  b02_alt: "A smiling young man is looking to the right, standing on a rooftop with a cityscape in the background at sunset."
-  b03_photo: "/assets/images/d4c48df47a490a.jpg"
-  b03_alt: "A woman with brown hair and a black jacket, smiling, at sunset in the city."
-  b04_1: "About us"
-  b05_photo: "/assets/images/52ecb0d3a5f2df.jpg"
-  b05_alt: "A woman posing with a baseball mascot in a stadium. The mascot is wearing a blue cap and a white uniform with the word \"Giants\" on it."
-  b07_1: "Jeanne Lethielleux"
-  b08_1: "Founder - Expert in project management and communication"
-  b08_2: "I am the one who keeps things on track. Organizing, prioritizing, and anticipating are what I've been doing for several years on international projects in France and abroad. "
-  b08_3: "At Blabla Korea, I provide structure. From the initial contact to the successful completion of your project, I ensure that every step moves forward. Curious and attentive, I am convinced that the best opportunities are found when we are willing to think outside the box."
-  b10_photo: "/assets/images/8d08d914be6275.jpg"
-  b10_alt: "A smiling person sitting on a bench along the Seine in Paris, with a French flag in the background, and bridges, boats, and historic buildings visible in the scene."
-  b11_1: "Founder - Korea and business expert"
+  b01_10: bridge between France and Korea
+  b01_11: " : whether you’re a French company looking for Korean partners or a
+    Korean company looking to expand into France."
+  b02_photo: /assets/images/52a6b6a56b7037.jpg
+  b02_alt: A smiling young man is looking to the right, standing on a rooftop with
+    a cityscape in the background at sunset.
+  b03_photo: /assets/images/d4c48df47a490a.jpg
+  b03_alt: A woman with brown hair and a black jacket, smiling, at sunset in the city.
+  b04_1: About us
+  b05_photo: /assets/images/52ecb0d3a5f2df.jpg
+  b05_alt: A woman posing with a baseball mascot in a stadium. The mascot is
+    wearing a blue cap and a white uniform with the word "Giants" on it.
+  b07_1: Jeanne Lethielleux
+  b08_1: Founder - Expert in project management and communication
+  b08_2: "I am the one who keeps things on track. Organizing, prioritizing, and
+    anticipating are what I've been doing for several years on international
+    projects in France and abroad. "
+  b08_3: At Blabla Korea, I provide structure. From the initial contact to the
+    successful completion of your project, I ensure that every step moves
+    forward. Curious and attentive, I am convinced that the best opportunities
+    are found when we are willing to think outside the box.
+  b10_photo: /assets/images/8d08d914be6275.jpg
+  b10_alt: A smiling person sitting on a bench along the Seine in Paris, with a
+    French flag in the background, and bridges, boats, and historic buildings
+    visible in the scene.
+  b11_1: Founder - Korea and business expert
   b11_2: "I am the one who reaches out to others.  "
-  b11_3: "At Blabla Korea, I am the one who connects. I know where to look, who to contact, and how to phrase things so that both sides truly understand each other. Curious and determined, I believe that the best relationships are born from authentic exchanges, without filters or detours."
-  b12_1: "Jonghyuk Lee"
-  b13_photo: "/assets/images/d7690b7f64b3f7.jpg"
-  b13_alt: "A modern interior featuring a bust sculpture next to a brown leather armchair, a plant with yellow flowers, white shopping bags, an air purifier, and beige curtains in front of an archway."
-  b14_photo: "/assets/images/b7496a79531af8.jpg"
-  b14_alt: "A woman with short hair, wearing a black coat, standing near a river or a port, with a building and statues in the background."
-  b15_1: "The people without whom this project would not be possible…"
+  b11_3: At Blabla Korea, I am the one who connects. I know where to look, who to
+    contact, and how to phrase things so that both sides truly understand each
+    other. Curious and determined, I believe that the best relationships are
+    born from authentic exchanges, without filters or detours.
+  b12_1: Jonghyuk Lee
+  b13_photo: /assets/images/d7690b7f64b3f7.jpg
+  b13_alt: A modern interior featuring a bust sculpture next to a brown leather
+    armchair, a plant with yellow flowers, white shopping bags, an air purifier,
+    and beige curtains in front of an archway.
+  b14_photo: /assets/images/b7496a79531af8.jpg
+  b14_alt: A woman with short hair, wearing a black coat, standing near a river or
+    a port, with a building and statues in the background.
+  b15_1: The people without whom this project would not be possible…
   b16_1: "Photographer "
-  b16_2: "Because this project was meant to reflect us, there was no one better to illustrate it than Léo, who has been with us every step of the way."
-  b17_1: "Léo Lethielleux"
+  b16_2: Because this project was meant to reflect us, there was no one better to
+    illustrate it than Léo, who has been with us every step of the way.
+  b17_1: Léo Lethielleux
   b18_1: "\n    View her portfolio\n  "
-  b19_photo: "/assets/images/df6b29e8ccaba1.jpg"
-  b19_alt: "A young woman with long brown hair, wearing a black top with pink accents, looks over her shoulder with a slight smile."
-  b20_photo: "/assets/images/1b6f6d02524265.jpg"
-  b20_alt: "A modern hair salon with brown makeup chairs and round mirrors with LED lighting in a white and gray interior."
-  b21_1: "K-Beauty and Fashion Ambassador"
-  b21_2: "Since this project is best experienced from Korea, we needed someone on the ground. Based in Daegu, where she runs her boutique, "
-  b21_3: "The Perfume Avenue"
-  b21_4: ", Hyanggi is our field reporter. She keeps us updated on social media and shares her beauty and fashion tips, her favorite finds, and the latest trends—all to bring you a firsthand look at Korea."
-  b21_5: "A multiple gold medalist in international beauty pageants and winner of the City of Daegu Artistic Award, she brings an expert eye and a strong local presence to Blabla Korea ."
-  b22_1: "Hyanggi Lee"
-  b23_1: "About our project"
-  b24_1: "We have each lived in the other's country. Jonghyuk in France, Jeanne in Korea. Over the years, we both experienced the same reality firsthand: language can be a barrier, but culture can be even more isolating. Not knowing who to contact, how to phrase a request, what tools to use, or which customs to respect: these are some of the difficulties that lead some people to abandon their projects."
-  b24_2: "It was from this shared experience that Blabla Korea was born. We position ourselves as a resource at your side, no matter what kind of project you’re undertaking with Korea. "
+  b19_photo: /assets/images/df6b29e8ccaba1.jpg
+  b19_alt: A young woman with long brown hair, wearing a black top with pink
+    accents, looks over her shoulder with a slight smile.
+  b20_photo: /assets/images/1b6f6d02524265.jpg
+  b20_alt: A modern hair salon with brown makeup chairs and round mirrors with LED
+    lighting in a white and gray interior.
+  b21_1: K-Beauty and Fashion Ambassador
+  b21_2: "Since this project is best experienced from Korea, we needed someone on
+    the ground. Based in Daegu, where she runs her boutique, "
+  b21_3: The Perfume Avenue
+  b21_4: ", Hyanggi is our field reporter. She keeps us updated on social media
+    and shares her beauty and fashion tips, her favorite finds, and the latest
+    trends : all to bring you a firsthand look at Korea."
+  b21_5: A multiple gold medalist in international beauty pageants and winner of
+    the City of Daegu Artistic Award, she brings an expert eye and a strong
+    local presence to Blabla Korea .
+  b22_1: Hyanggi Lee
+  b23_1: About our project
+  b24_1: "We have each lived in the other's country. Jonghyuk in France, Jeanne in
+    Korea. Over the years, we both experienced the same reality firsthand:
+    language can be a barrier, but culture can be even more isolating. Not
+    knowing who to contact, how to phrase a request, what tools to use, or which
+    customs to respect: these are some of the difficulties that lead some people
+    to abandon their projects."
+  b24_2: "It was from this shared experience that Blabla Korea was born. We
+    position ourselves as a resource at your side, no matter what kind of
+    project you’re undertaking with Korea. "
   b24_3: "Our strength? An in-depth knowledge of both cultures and a "
   b24_4: "complementary skill set "
-  b24_5: "that allows us to cover together what neither of us could do alone."
-  b24_6: "Our motto is"
-  b24_7: "exchange"
-  b24_8: ". Above all, we take the time to understand your project and truly listen to you. Because effective support starts with a "
+  b24_5: that allows us to cover together what neither of us could do alone.
+  b24_6: Our motto is
+  b24_7: exchange
+  b24_8: ". Above all, we take the time to understand your project and truly
+    listen to you. Because effective support starts with a "
   b24_9: "conversation "
   b24_10: ", and every project deserves a "
-  b24_11: "tailored solution."
-  b25_photo: "/assets/images/b514d03c583279.jpg"
-  b25_alt: "The Pohang suspension bridge, with people walking across it."
-  b26_1: "We'll help you bring your project with Korea to life"
-  b27_1: "Our expertise"
-  b28_1: "B2B expertise"
-  b28_2: "France-Korea facilitation"
+  b24_11: tailored solution.
+  b25_photo: /assets/images/b514d03c583279.jpg
+  b25_alt: The Pohang suspension bridge, with people walking across it.
+  b26_1: We'll help you bring your project with Korea to life
+  b27_1: Our expertise
+  b28_1: B2B expertise
+  b28_2: France-Korea facilitation
   b28_3: "A project with Korea? Let's talk about it. "
   b29_1: "\n    Discover our B2B offerings\n  "
-  b32_1: "Let's discuss your project together"
+  b32_1: Let's discuss your project together
   b32_2: "A first consultation, "
   b32_3: "free "
   b32_4: "and "
-  b32_5: "without obligation"
+  b32_5: without obligation
   b32_6: ", to understand your project and see how we can help you. "
 service:
   title: "B2B Support in South Korea: Preparation and Business Visits — Blabla Korea"
-  b00_1: "When two professional worlds don't naturally communicate with each other"
-  b01_1: "France and South Korea have long-standing economic and cultural ties, but their business worlds operate according to profoundly different principles."
-  b02_photo: "/assets/images/9279ebc6242864.jpg"
-  b02_alt: "A historic castle with a slate roof and a central tower, surrounded by greenery and old houses, under a blue sky with a few clouds."
-  b03_photo: "/assets/images/a69c0e2fa05bd5.jpg"
-  b03_alt: "A view of a river with vegetation in the foreground, a cluster of buildings in the middle ground, and mountains in the background under a clear sky."
-  b04_photo: "/assets/images/b514d03c583279.jpg"
-  b04_alt: "A Ferris wheel at a carnival, seen from below, with people walking or standing on a walkway at the top. The sky is light blue, and there are trees in the foreground."
-  b05_1: "How does it work?"
+  b00_1: When two professional worlds don't naturally communicate with each other
+  b01_1: France and South Korea have long-standing economic and cultural ties, but
+    their business worlds operate according to profoundly different principles.
+  b02_photo: /assets/images/9279ebc6242864.jpg
+  b02_alt: A historic castle with a slate roof and a central tower, surrounded by
+    greenery and old houses, under a blue sky with a few clouds.
+  b03_photo: /assets/images/a69c0e2fa05bd5.jpg
+  b03_alt: A view of a river with vegetation in the foreground, a cluster of
+    buildings in the middle ground, and mountains in the background under a
+    clear sky.
+  b04_photo: /assets/images/b514d03c583279.jpg
+  b04_alt: A Ferris wheel at a carnival, seen from below, with people walking or
+    standing on a walkway at the top. The sky is light blue, and there are trees
+    in the foreground.
+  b05_1: How does it work?
   b06_1: "A bridge stands because it has two banks. "
   b06_2: "It's the combination of "
-  b06_3: "our two perspectives"
+  b06_3: our two perspectives
   b06_4: " that allows us to guide you across this bridge in both directions"
   b07_1: "01"
-  b07_2: "Exchange"
+  b07_2: Exchange
   b07_3: "A 30-minute call, free of charge. "
-  b07_4: "Tell us about your project, and we'll give you our honest opinion on whether we can help you"
+  b07_4: Tell us about your project, and we'll give you our honest opinion on
+    whether we can help you
   b08_1: "02"
-  b08_2: "A customized proposal"
-  b08_3: "You will receive a written proposal with detailed cost estimates: objectives, milestones, timeline, and budget—all tailored to your project, with no one-size-fits-all solutions."
+  b08_2: A customized proposal
+  b08_3: "You will receive a written proposal with detailed cost estimates:
+    objectives, milestones, timeline, and budget—all tailored to your project,
+    with no one-size-fits-all solutions."
   b09_1: "03"
-  b09_2: "Prepare and support"
-  b09_3: "We train your teams in business etiquette and scheduling appointments. We’re also there to support you during any business trips or events."
+  b09_2: Prepare and support
+  b09_3: We train your teams in business etiquette and scheduling appointments.
+    We’re also there to support you during any business trips or events.
   b10_1: "04"
-  b10_2: "Follow-up after the meeting"
-  b10_3: "Follow-ups, debriefings, upcoming meetings: In Korea, relationships are built primarily after the first meeting."
+  b10_2: Follow-up after the meeting
+  b10_3: "Follow-ups, debriefings, upcoming meetings: In Korea, relationships are
+    built primarily after the first meeting."
   b11_1: "\n    Contact Us\n  "
   b12_1: "They placed their trust in us "
-  b13_1: "For the past two years, we have been supporting Korean institutions and entrepreneurs with their projects in France. These initial successful assignments have convinced us to offer this service in the opposite direction: helping French companies expand into South Korea."
-  b14_photo: "/assets/images/4bc548d214922c.jpg"
-  b14_alt: "A group of people holding a banner during an outdoor outing, with sheep in the background, in France or England, on a sunny day."
-  b15_photo: "/assets/images/a3dbe1ca3a70ec.jpg"
-  b15_alt: "A group of people listening to a woman speak during a guided tour of an indoor space with wooden walls and shelves."
-  b16_1: "Korean eyewear brand - SILMO Paris Trade Show, September 2026"
-  b16_2: "Support for a Korean eyewear brand during the three-day trade show: presenting the product line to visitors, identifying serious prospects, and arranging meetings with the CEO so she could focus her time on the most important discussions."
-  b17_photo: "/assets/images/9164a37452e189.jpg"
-  b17_alt: ""
-  b18_1: "Institutional Delegation - Andong Region (South Korea), April 2025"
-  b18_2: "Comprehensive organization of a thematic study tour in France for a delegation: program design, booking and coordination of French service providers, and French-Korean interpretation throughout the entire stay."
-  b19_photo: "/assets/images/5488aa37124393.jpg"
-  b19_alt: "A showroom with sunglasses on a counter in the foreground, two men talking in the background, a modern setting with other people and exhibition booths."
-  b20_photo: "/assets/images/f2d431a023cd00.jpg"
-  b20_alt: ""
-  b21_photo: "/assets/images/2bfda47d25cec2.jpg"
-  b21_alt: "A group of people chatting near a booth selling eyeglasses at an exhibition center or trade show. Several pairs of eyeglasses are displayed on the counter, and two men—one of whom is wearing glasses—are engaged in conversation."
-  b22_1: "Korean Food and Beverage Companies - SIAL Paris Trade Show, October 2026"
-  b22_2: "Interpretation services during the five-day trade show for a Korean agri-food cooperative: facilitating its interactions with European visitors and buyers in Korean, French, and English."
+  b13_1: "For the past two years, we have been supporting Korean institutions and
+    entrepreneurs with their projects in France. These initial successful
+    assignments have convinced us to offer this service in the opposite
+    direction: helping French companies expand into South Korea."
+  b14_photo: /assets/images/4bc548d214922c.jpg
+  b14_alt: A group of people holding a banner during an outdoor outing, with sheep
+    in the background, in France or England, on a sunny day.
+  b15_photo: /assets/images/a3dbe1ca3a70ec.jpg
+  b15_alt: A group of people listening to a woman speak during a guided tour of an
+    indoor space with wooden walls and shelves.
+  b16_1: Korean eyewear brand - SILMO Paris Trade Show, September 2026
+  b16_2: "Support for a Korean eyewear brand during the three-day trade show:
+    presenting the product line to visitors, identifying serious prospects, and
+    arranging meetings with the CEO so she could focus her time on the most
+    important discussions."
+  b17_photo: /assets/images/9164a37452e189.jpg
+  b18_1: Institutional Delegation - Andong Region (South Korea), April 2025
+  b18_2: "Comprehensive organization of a thematic study tour in France for a
+    delegation: program design, booking and coordination of French service
+    providers, and French-Korean interpretation throughout the entire stay."
+  b19_photo: /assets/images/5488aa37124393.jpg
+  b19_alt: A showroom with sunglasses on a counter in the foreground, two men
+    talking in the background, a modern setting with other people and exhibition
+    booths.
+  b20_photo: /assets/images/f2d431a023cd00.jpg
+  b21_photo: /assets/images/2bfda47d25cec2.jpg
+  b21_alt: A group of people chatting near a booth selling eyeglasses at an
+    exhibition center or trade show. Several pairs of eyeglasses are displayed
+    on the counter, and two men—one of whom is wearing glasses—are engaged in
+    conversation.
+  b22_1: Korean Food and Beverage Companies - SIAL Paris Trade Show, October 2026
+  b22_2: "Interpretation services during the five-day trade show for a Korean
+    agri-food cooperative: facilitating its interactions with European visitors
+    and buyers in Korean, French, and English."
   b23_1: "\n    Follow our news on LinkedIn\n  "
-  b24_1: "Preparing Your Project"
-  b25_1: "Every project begins with an initial consultation, which is free and non-binding. Together, we address the key questions that shape the project:"
-  b25_2: "What is my goal, and what does success actually mean to me?"
-  b25_3: "What are my deadlines, and are they realistic from the Korean side?"
-  b25_4: "Who are the right people to contact, and in what order?"
-  b25_5: "Is my team culturally ready for an initial exchange?"
-  b25_6: "This is the most important step: it allows us to truly understand your goals and offer you the support that best suits your needs."
+  b24_1: Preparing Your Project
+  b25_1: "Every project begins with an initial consultation, which is free and
+    non-binding. Together, we address the key questions that shape the project:"
+  b25_2: What is my goal, and what does success actually mean to me?
+  b25_3: What are my deadlines, and are they realistic from the Korean side?
+  b25_4: Who are the right people to contact, and in what order?
+  b25_5: Is my team culturally ready for an initial exchange?
+  b25_6: "This is the most important step: it allows us to truly understand your
+    goals and offer you the support that best suits your needs."
   b26_1: "Contact us to discuss your project "
   b26_2: "You can fill out the form below or send us an email at "
-  b26_3: "contact@blablakorea.com"
+  b26_3: contact@blablakorea.com
   b26_4: "(First consultation is free) "
   b28_1: "Why does our duo make a difference? "
-  b29_1: "An intercultural consultant will talk to you about cultural norms. A translation agency will talk to you about words. "
-  b29_2: "We bring you both at once, because our duo combines these two areas of expertise"
-  b30_1: "Jonghyuk identifies the Korean counterparts, knows which tools are actually used there (often very different from Western standards), and immediately spots what, in a particular approach, might not go over well culturally. "
-  b30_2: "Jeanne structures the project, translates business objectives in both directions, and ensures that each step remains clear, well-defined, and achievable."
+  b29_1: "An intercultural consultant will talk to you about cultural norms. A
+    translation agency will talk to you about words. "
+  b29_2: We bring you both at once, because our duo combines these two areas of
+    expertise
+  b30_1: "Jonghyuk identifies the Korean counterparts, knows which tools are
+    actually used there (often very different from Western standards), and
+    immediately spots what, in a particular approach, might not go over well
+    culturally. "
+  b30_2: Jeanne structures the project, translates business objectives in both
+    directions, and ensures that each step remains clear, well-defined, and
+    achievable.
   b30_3: "But first and foremost, we "
-  b30_4: "continue to learn"
-  b30_5: ". We regularly meet with those who have been fostering ties between France and Korea for years: entrepreneurs, institutions, and people working on the ground. In 2026, for example, we participated in K-Founders Connect in Paris and in the symposium marking 140 years of Franco-Korean relations, held at the National Assembly. Every exchange with more experienced individuals enriches the support we offer you."
-  b31_photo: "/assets/images/7ff5d0b751c675.jpg"
-  b31_alt: "A group of people posing for a photo at a conference, with a sign in the background that reads “2026 K-Founders Connect in Paris.”"
-  b32_photo: "/assets/images/2b3285a414b0a0.jpg"
-  b32_alt: "Two men in suits are posing together at an event. They are in the center of the photo, in a room with wood paneling, with other people in the background working or talking."
-  b33_photo: "/assets/images/f8fc4da482939d.jpg"
-  b33_alt: ""
-  b34_photo: "/assets/images/f959cd29212fcb.webp"
-  b34_alt: "Jonghyuk and the president of Kimchi Château pose for a photo at a conference in Paris. They are making a heart shape with their hands, and the woman is wearing a plaid coat. The young man is wearing a white shirt and a name tag around his neck."
-  b35_photo: "/assets/images/1bca314fdf0fe1.jpg"
-  b35_alt: ""
-  b36_1: "The observation that set everything in motion"
-  b36_2: "Jonghyuk has always seen this, without even thinking about it at first: in Korea, people don’t look for information the same way, they don’t contact business partners the same way, and they don’t use the same tools. Naver instead of Google, KakaoTalk instead of email, and a contact hierarchy that’s completely different from French customs. What seems obvious to him isn’t obvious to anyone here."
-  b36_3: "Jeanne, for her part, learned this the hard way. Four years abroad—including two years in South Korea—and the realization that you can be thorough, well-prepared, and have the best of intentions, and still hit a wall."
+  b30_4: continue to learn
+  b30_5: ". We regularly meet with those who have been fostering ties between
+    France and Korea for years: entrepreneurs, institutions, and people working
+    on the ground. In 2026, for example, we participated in K-Founders Connect
+    in Paris and in the symposium marking 140 years of Franco-Korean relations,
+    held at the National Assembly. Every exchange with more experienced
+    individuals enriches the support we offer you."
+  b31_photo: /assets/images/7ff5d0b751c675.jpg
+  b31_alt: A group of people posing for a photo at a conference, with a sign in
+    the background that reads “2026 K-Founders Connect in Paris.”
+  b32_photo: /assets/images/2b3285a414b0a0.jpg
+  b32_alt: Two men in suits are posing together at an event. They are in the
+    center of the photo, in a room with wood paneling, with other people in the
+    background working or talking.
+  b33_photo: /assets/images/f8fc4da482939d.jpg
+  b34_photo: /assets/images/f959cd29212fcb.webp
+  b34_alt: Jonghyuk and the president of Kimchi Château pose for a photo at a
+    conference in Paris. They are making a heart shape with their hands, and the
+    woman is wearing a plaid coat. The young man is wearing a white shirt and a
+    name tag around his neck.
+  b35_photo: /assets/images/1bca314fdf0fe1.jpg
+  b36_1: The observation that set everything in motion
+  b36_2: "Jonghyuk has always seen this, without even thinking about it at first:
+    in Korea, people don’t look for information the same way, they don’t contact
+    business partners the same way, and they don’t use the same tools. Naver
+    instead of Google, KakaoTalk instead of email, and a contact hierarchy
+    that’s completely different from French customs. What seems obvious to him
+    isn’t obvious to anyone here."
+  b36_3: Jeanne, for her part, learned this the hard way. Four years
+    abroad—including two years in South Korea—and the realization that you can
+    be thorough, well-prepared, and have the best of intentions, and still hit a
+    wall.
   b36_4: "It was this twofold realization that prompted us to build this "
-  b36_5: "bridge"
-  b36_6: " ourselves: not to sell a ready-made solution, but to spare others the detours and misunderstandings we ourselves had to face."
+  b36_5: bridge
+  b36_6: " ourselves: not to sell a ready-made solution, but to spare others the
+    detours and misunderstandings we ourselves had to face."
 contact:
-  title: "Contact | Blabla Korea, let's talk about your project — Blabla Korea"
-  b00_1: "Let's discuss your project together"
+  title: Contact | Blabla Korea, let's talk about your project — Blabla Korea
+  b00_1: Let's discuss your project together
   b00_2: "A first consultation, "
   b00_3: "free "
   b00_4: "and "
-  b00_5: "without obligation"
+  b00_5: without obligation
   b00_6: ", to understand your project and see how we can help you. "
 legal:
-  title: "Legal notice | Discover our legal notice - Get informed easily — Blabla Korea"
-  b00_1: "Legal notice"
-  b01_1: "Company identity"
-  b02_1: "Jonghyuk Lee - sole proprietorship (EI), trade name Blabla Korea"
-  b04_1: "Company address"
-  b05_1: "182 rue Malbec, 33800 Bordeaux, France"
-  b07_1: "Phone number"
-  b08_1: "+33 7 66 06 88 65"
-  b10_1: "Email address"
-  b11_1: "contact.blablakorea@gmail.com"
-  b13_1: "Owner's name"
-  b14_1: "Jonghyuk LEE"
-  b16_1: "VAT identification number"
-  b17_1: "VAT not applicable, art. 293 B of the French Tax Code"
-  b19_1: "SIREN number (RNE)"
-  b20_1: "107 286 312"
-  b22_1: "Website host identity"
-  b23_1: "GitHub Pages (GitHub, Inc.)"
-  b25_1: "Website host address"
-  b26_1: "Official contact details for GitHub, Inc."
+  title: Legal notice | Discover our legal notice - Get informed easily — Blabla Korea
+  b00_1: Legal notice
+  b01_1: Company identity
+  b02_1: Jonghyuk Lee - sole proprietorship (EI), trade name Blabla Korea
+  b04_1: Company address
+  b05_1: 182 rue Malbec, 33800 Bordeaux, France
+  b07_1: Phone number
+  b08_1: +33 7 66 06 88 65
+  b10_1: Email address
+  b11_1: contact.blablakorea@gmail.com
+  b13_1: Owner's name
+  b14_1: Jonghyuk LEE
+  b16_1: VAT identification number
+  b17_1: VAT not applicable, art. 293 B of the French Tax Code
+  b19_1: SIREN number (RNE)
+  b20_1: 107 286 312
+  b22_1: Website host identity
+  b23_1: GitHub Pages (GitHub, Inc.)
+  b25_1: Website host address
+  b26_1: Official contact details for GitHub, Inc.
   b28_1: "Intellectual property notice "
-  b29_1: "All content on this site (texts, images, videos, logo) is the property of Blabla Korea, unless otherwise stated. Any reproduction or use without prior authorization is prohibited."
+  b29_1: All content on this site (texts, images, videos, logo) is the property of
+    Blabla Korea, unless otherwise stated. Any reproduction or use without prior
+    authorization is prohibited.
   b31_1: "Disclaimer "
-  b32_1: "Blabla Korea strives to ensure the accuracy of the information published on this site, but cannot be held responsible for errors, omissions, or the temporary unavailability of the site. External links provided do not engage the responsibility of the publisher."
-  b34_1: "Personal data processing (General Data Protection Regulation) and cookie policy "
-  b35_1: "Personal data collected via this site is processed in accordance with GDPR. For more information, please consult our "
-  b35_2: "privacy"
+  b32_1: Blabla Korea strives to ensure the accuracy of the information published
+    on this site, but cannot be held responsible for errors, omissions, or the
+    temporary unavailability of the site. External links provided do not engage
+    the responsibility of the publisher.
+  b34_1: "Personal data processing (General Data Protection Regulation) and cookie
+    policy "
+  b35_1: "Personal data collected via this site is processed in accordance with
+    GDPR. For more information, please consult our "
+  b35_2: privacy
   b35_3: " policy."
 privacy:
-  title: "Privacy policy | Get informed and protect your data — Blabla Korea"
-  b00_1: "Privacy policy"
+  title: Privacy policy | Get informed and protect your data — Blabla Korea
+  b00_1: Privacy policy
   b00_2: "Last updated: July 2026"
-  b00_3: "About Us"
-  b00_4: " Blabla Korea a France-Korea facilitation service provided by Jeanne Lethielleux and Jonghyuk Lee. If you have any questions regarding your personal data, please contact us at: contact.blablakorea@gmail.com"
-  b00_5: "What data do we collect?"
-  b00_6: " We only collect the data you voluntarily provide us through our contact form: first name, last name, email address, and the content of your message. We do not collect any browsing data, do not use analytical cookies, and do not use any tracking tools."
-  b00_7: "Why do we use this data?"
-  b00_8: " Your data is used exclusively to respond to your request and to discuss your project with you. It is never shared with third parties, resold, or used for commercial purposes."
-  b00_9: "How long do we keep your data?"
-  b00_10: " Your data is kept for the time necessary to process your request, and for a maximum of 3 years from our last exchange."
-  b00_11: "Your rights"
-  b00_12: " In accordance with the General Data Protection Regulation (GDPR), you have the following rights regarding your data: access, rectification, erasure, objection, and portability. To exercise these rights, please contact us at: [your email de contact]"
-  b00_13: "Website hosting"
+  b00_3: About Us
+  b00_4: " Blabla Korea a France-Korea facilitation service provided by Jeanne
+    Lethielleux and Jonghyuk Lee. If you have any questions regarding your
+    personal data, please contact us at: contact.blablakorea@gmail.com"
+  b00_5: What data do we collect?
+  b00_6: " We only collect the data you voluntarily provide us through our contact
+    form: first name, last name, email address, and the content of your message.
+    We do not collect any browsing data, do not use analytical cookies, and do
+    not use any tracking tools."
+  b00_7: Why do we use this data?
+  b00_8: " Your data is used exclusively to respond to your request and to discuss
+    your project with you. It is never shared with third parties, resold, or
+    used for commercial purposes."
+  b00_9: How long do we keep your data?
+  b00_10: " Your data is kept for the time necessary to process your request, and
+    for a maximum of 3 years from our last exchange."
+  b00_11: Your rights
+  b00_12: " In accordance with the General Data Protection Regulation (GDPR), you
+    have the following rights regarding your data: access, rectification,
+    erasure, objection, and portability. To exercise these rights, please
+    contact us at: [your email de contact]"
+  b00_13: Website hosting
   b00_14: " This site is hosted by GitHub Pages (GitHub, Inc.). To learn more: "
-  b00_15: "GitHub General Privacy Statement"
+  b00_15: GitHub General Privacy Statement
 home:
-  title: "Your French-Korean Duo for Success in Korea"
-  b00_1: "Your bridge between France and Korea"
-  b01_1: "A sales expert from Daegu and an organizational expert."
+  title: Your French-Korean Duo for Success in Korea
+  b00_1: Your bridge between France and Korea
+  b01_1: A sales expert from Daegu and an organizational expert.
   b01_2: "Together, we open Korea's doors and help bring your project to life. "
-  b02_1: "\n    Learn more about our support services\n  "
-  b03_photo: "/assets/images/903a14d3fa7edd.jpg"
-  b03_alt: ""
-  b04_1: "Our expertise"
-  b05_1: "We support companies and institutions in their projects between France and South Korea. "
-  b06_1: "B2B expertise"
-  b06_2: "France-Korea facilitation"
+  b02_1: "
+
+    \    Learn more about our support services
+
+    \  "
+  b03_photo: /assets/images/903a14d3fa7edd.jpg
+  b04_1: Our expertise
+  b05_1: "We support companies and institutions in their projects between France
+    and South Korea. "
+  b06_1: B2B expertise
+  b06_2: France-Korea facilitation
   b06_3: "A project with Korea? Let's talk about it. "
-  b06_4: "Scheduling meetings with buyers"
-  b06_5: "Support for exploratory missions to Korea"
+  b06_4: Scheduling meetings with buyers
+  b06_5: Support for exploratory missions to Korea
   b06_6: "In-Company Workshops: The Korean Market and Business Culture"
-  b06_7: "We'll be there with you at trade shows and events"
+  b06_7: We'll be there with you at trade shows and events
   b07_1: "\n    Discover our B2B offerings\n  "
-  b08_photo: "/assets/images/37220ca62dcb77.jpg"
-  b08_alt: ""
-  b09_photo: "/assets/images/bc257de7acab10.jpg"
-  b09_alt: ""
-  b12_photo: "/assets/images/6a863e6810d34f.png"
-  b12_alt: ""
-  b15_1: "Follow our adventures"
-  b16_photo: "/assets/images/b2efcd90676044.jpg"
-  b16_alt: "Visit to the Korean company in Paris - excursion to Gally farm near Paris"
-  b17_photo: "/assets/images/ebb33a2590f893.jpg"
-  b17_alt: "Company meal - Kyungpook university collaboration"
-  b18_photo: "/assets/images/eee7af0e11e743.jpg"
-  b18_alt: "Cultural center inauguration - Daegu"
-  b19_photo: "/assets/images/13771d18d66924.jpg"
-  b19_alt: ""
-  b20_1: "\n    \tLearn about us \n  "
+  b08_photo: /assets/images/37220ca62dcb77.jpg
+  b09_photo: /assets/images/bc257de7acab10.jpg
+  b12_photo: /assets/images/6a863e6810d34f.png
+  b15_1: Follow our adventures
+  b16_photo: /assets/images/b2efcd90676044.jpg
+  b16_alt: Visit to the Korean company in Paris - excursion to Gally farm near Paris
+  b17_photo: /assets/images/ebb33a2590f893.jpg
+  b17_alt: Company meal - Kyungpook university collaboration
+  b18_photo: /assets/images/eee7af0e11e743.jpg
+  b18_alt: Cultural center inauguration - Daegu
+  b19_photo: /assets/images/13771d18d66924.jpg
+  b20_1: "\n    \tLearn about us\ \n  "
 common:
-  brand: "Blabla Korea"
-  about: "About us"
-  service: "Business Support"
-  blog: "Our blog"
-  contact: "Contact us"
-  fr: "Français"
-  en: "English"
-  ko: "한국어"
-  legal: "Legal notice"
-  privacy: "Privacy policy"
-  email: "contact@blablakorea.com"
-  linkedin: "LinkedIn"
-  name: "Name"
-  company: "Company name"
-  email_label: "Email"
-  message: "Message"
-  send: "Send"
+  brand: Blabla Korea
+  about: About us
+  service: Business Support
+  blog: Our blog
+  contact: Contact us
+  fr: Français
+  en: English
+  ko: 한국어
+  legal: Legal notice
+  privacy: Privacy policy
+  email: contact@blablakorea.com
+  linkedin: LinkedIn
+  name: Name
+  company: Company name
+  email_label: Email
+  message: Message
+  send: Send
